@@ -1,0 +1,137 @@
+# V01｜视觉审美测试
+
+主题：A quiet morning in the city\
+设计方向：极简主义 · 城市文化海报 · 静谧的日常诗意
+
+## 1. 核心视觉概念
+
+以清晨尚未完全苏醒的城市街道为主题，捕捉太阳刚刚越过建筑物、第一束阳光落在空旷街道上的瞬间。
+
+画面不表现繁忙的都市生活，而是通过一栋建筑、一棵树、一段街道和一束光，建立一种缓慢、克制的城市叙事。
+
+视觉关键词：安静、疏离、晨光、秩序、留白、时间感。
+
+## 2. 构图与主体安排
+
+[Street city Europe outdoors architecture | Free Photo  - rawpixel](https://images.openai.com/static-rsc-4/eI45VdRNg6K7XUQ_Rrys9-e-Hx3oGwYNsrhRqSsJEnHw9nqoTBKUGcpnf3IV9HljAdRXNv2_JWAIaP0pSICwGOOhWe5yRQyckJb4xxP6LqwGc2iL5K_oW5PxsExGjJTso3glam5KzrwdI6ALlauto63hd64q0YPgy42dfiM6mww?purpose=inline)
+
+[rawpixel.com](https://www.rawpixel.com/image/14199974/street-city-europe-outdoors-architecture-cityscape?utm_source=chatgpt.com)
+
+- 主体： 一条安静的城市街道，街道两侧是简洁的现代主义建筑，画面中出现一棵枝叶稀疏的树。
+- 主体位置： 建筑集中在画面右侧及下方，形成稳定的视觉重量；树木位于画面偏左下方，作为自然元素与建筑形成对照。
+- 光线： 清晨的阳光从画面左上方斜射进来，在街道地面形成一块清晰但边缘柔和的暖黄色光区。
+- 阴影： 建筑和树木的长影向画面右下方延伸，形成具有方向性的视觉节奏。
+- 视角： 平视略带纵深的街道视角，避免夸张透视和过度戏剧化的广角效果。
+
+画面不需要人物。如果出现人物，只允许一个非常小的远景剪影，不让人物成为视觉中心。
+
+## 3. 色彩系统
+
+暖灰白
+
+建筑灰
+
+雾蓝
+
+灰绿
+
+晨光金
+
+阴影灰
+
+整体采用低饱和度的自然色彩：
+
+- 背景：暖灰白，避免纯白带来的生硬感。
+- 建筑：浅灰、灰米色，保持建筑轮廓简洁。
+- 天空：非常淡的雾蓝色。
+- 树木：低饱和灰绿色。
+- 阳光：柔和的浅金黄色，作为唯一较明显的暖色视觉焦点。
+- 阴影：带有轻微暖调的深灰色，不使用纯黑。
+
+色彩比例建议：
+
+- 浅色背景及天空：50%
+- 建筑与街道：30%
+- 阴影与树木：15%
+- 阳光高光：5%
+
+## 4. 留白与空间关系
+
+采用纵向 2:3 海报比例。
+
+[Igual&Guggenheim Architekten, Radek Brunecky · Residential Complex in Mühlau · Divisare](https://images.openai.com/static-rsc-4/UfDM5fiisRYOca6MhS13PP5O3bKXrvRU_V6aspFZk7GE9Ax0RVBwAuod7iKWCf0DybqLi1PFB7wefvoV9Usvo2QEYiZqxnWCAM9Lyj34y_mYLPCB-ayosz4mWxlQm3yFs-yEFjVJ8V3xuqDlabh9Jrt2QxPiD9q-nYKDN6Shsfc?purpose=inline)
+
+[divisare.com](https://divisare.com/projects/398417-igual-guggenheim-architekten-radek-brunecky-residential-complex-in-muhlau?utm_source=chatgpt.com)
+
+画面上方约 45% 保持大面积空白，只保留标题及少量辅助文字。
+
+中部约 35% 放置建筑、树木和光影构成的主要视觉场景。
+
+下方约 20% 保留街道延伸空间，并放置极小的日期或地点信息。
+
+留白不是单纯的空白，而是用来强调清晨城市的疏离感和时间的缓慢流动。
+
+主体不能平均分布在画面中。应当让建筑和树木形成偏置的视觉重量，使空白区域与实景区域产生不对称但稳定的平衡。
+
+## 5. 字体与排版方向
+
+[Contrastes V, Galerie Suzanne Bollag, 1963 – The Print Arkive](https://images.openai.com/static-rsc-4/X4PK6VoeavNHM3UJ4zgSr8vHtrqEa50_xa3qS3lw4eh_bWxy6TnkHwhiAKpudPL8_N8-hWP6Z-4jdHtEC-tInByGvQQ47r1v7JQpV47svciYmNU5xrFe0ojKN-XdVDlq_j-vNVJbn3i_s66QFMZcM-_Gq9C1FasiSX8Ryvv4A50?purpose=inline)
+
+[theprintarkive.co.uk](https://www.theprintarkive.co.uk/products/1123?variant=42217170501809\&utm_source=chatgpt.com)
+
+采用瑞士国际主义平面设计风格，结合现代编辑设计的排版方式。
+
+主标题：
+
+A quiet morning\
+in the city.
+
+- 使用现代无衬线字体。
+- 字体方向参考 Helvetica Neue、Neue Haas Grotesk。
+- 字重使用 Light 或 Regular。
+- 字号适中，不占据整个画面。
+- 放置于左上方，保持较宽的边距。
+- 两行排版，行距略宽。
+
+辅助文字：
+
+CITY NOTES / 08:12 AM
+
+- 使用小字号大写英文。
+- 字距适当拉开。
+- 放置在主标题下方或海报底部。
+- 使用深灰色，避免与主体争夺注意力。
+
+不要使用装饰性字体、手写字体、粗重标题或复杂文字组合。
+
+## 6. 最终视觉生成指令
+
+以下内容可直接交给图像生成模型：
+
+Create a minimalist contemporary cultural poster titled "A quiet morning in the city."
+
+**Format:** Vertical 2:3 poster.
+
+**Visual concept:** A quiet, nearly empty urban street in the early morning, capturing the moment when the first warm sunlight touches the architecture and pavement.
+
+**Composition:** Place simple modernist buildings predominantly on the right side and lower portion of the composition. Include one slender tree with sparse foliage in the lower-left area. A soft golden patch of morning sunlight falls diagonally across the street, while elongated architectural and tree shadows extend toward the lower-right corner. Use a slightly asymmetrical composition with a strong sense of spatial depth.
+
+**Negative space:** Reserve approximately 45% of the upper area as open, uncluttered space. Keep the main architectural scene concentrated in the middle and lower portions. Maintain generous margins and avoid distributing visual elements evenly.
+
+**Color palette:** Warm off-white, muted architectural gray, pale misty blue, desaturated sage green, soft golden yellow, and warm charcoal gray. Keep all colors restrained and low in saturation.
+
+**Lighting:** Gentle directional morning light, long soft-edged shadows, subtle tonal transitions. Avoid dramatic cinematic lighting.
+
+**Typography:** Use refined Swiss modernist typography inspired by Helvetica Neue or Neue Haas Grotesk. Place the title "A quiet morning in the city." in the upper-left area, using a light sans-serif typeface with generous line spacing. Add a small secondary caption "CITY NOTES / 08:12 AM" near the bottom.
+
+**Visual balance:** Create a deliberate relationship between architectural mass and empty space. The image should feel quiet, spacious, slightly detached, and contemplative. Use subtle asymmetry and a restrained visual rhythm.
+
+**Avoid:** Crowds, traffic, excessive architectural details, decorative illustrations, saturated colors, gradients, ornamental typography, unnecessary graphic elements, and excessive text.
+
+The final result should resemble a carefully art-directed contemporary European cultural poster, combining architectural photography, restrained graphic design, and poetic negative space.
+
+V01 设计完成。
+
+你希望这张海报的视觉表达更接近哪一种方向？
+
+A｜建筑摄影感B｜极简平面设计C｜当代艺术风格

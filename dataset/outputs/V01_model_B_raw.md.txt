@@ -1,0 +1,78 @@
+# V01 — “A quiet morning in the city”
+
+**Format** A1 portrait, 594 × 841 mm, full bleed (3 mm). No border, no frame, no keyline. Two flat fields meet along one edge; everything is decided by placement against those two fields.
+
+**Viewpoint** Eye level 1.05 m, 50 mm equivalent, tilted 2° down. The camera sits at a table, close to a large window; the window frame falls outside the crop. There is nothing in the picture except a tabletop, a mug, and the far city.
+
+## Space division
+
+| Element | x (mm) | y (mm) | Tone |
+|---|---|---|---|
+| Window field (empty) | 0–594 | 0–640 | #E9E4D8 |
+| Table plane (dark) | 0–594 | 640–841 | #26241F |
+| Title, line 1 baseline | 40 | 150 | #26241F |
+| Title, line 2 baseline | 40 | 170 | #26241F |
+| Subtitle baseline | 40 | 196 | #6B6455 |
+| Mug body | 174–242 | 594–668 | paper / #9A9280 |
+| Steam hairline | 200→208 | 386–594 | #8F8878, 40% |
+| Stair bulkhead | 286–352 | 560–640 | #B4B0A3 |
+| Water tank on legs | 392–470 | 500–640 | #ADA99C |
+| Antenna mast | 516 | 442–640 | #5E5A50, 60% |
+
+The window/table edge runs the full width at y = 640 (76% of height) and is rotated 0.8° clockwise — 6 mm across the trim. The type stays level, so the tilt reads as the room settling, not as an error.
+
+## Main subject
+
+A single bone-white ceramic mug, 68 mm wide, 74 mm tall, with a chipped rim and a thick D-handle on the right. Its base sits at y = 668, 28 mm *below* the window edge — so the mug straddles the two fields. Its lower third is white against near-black: a hard, unmistakable silhouette. Its upper two-thirds is white against an almost equally light field, so the object loses its edge where the light is strongest. Only three marks keep it legible there: the rim ellipse (a 0.4 mm contour), the handle’s inner opening (filled #9A9280), and one soft shadow plane on the mug’s left wall. Inside the rim, a 2 mm ellipse of tea, #B4763A — the only saturated color on the sheet, 0.3% of the area.
+
+## The city
+
+The city is described by four pieces of rooftop furniture, not by a skyline. Right of the mug, along the same edge: a stair bulkhead (66 mm wide, low), a water tank on four hairline legs (78 mm, with two vertical seam lines), and a 1.4 mm antenna mast rising to y = 442 with one 22 mm crossbar. All flat fills, no windows, no drawn detail, no lit rooms. They are paler than the table and darker than the window — a middle value that reads as distance and as sleep.
+
+## Negative space
+
+Three voids, each with a job:
+
+1. **Upper field, y 0–140 (17%).** Cleared entirely; it lets the eye enter before anything is asked of it.
+2. **Middle field, y 210–560 (42% of height, full width).** The poster’s silence — 350 mm with no type, no rule, no logo, no texture. Exactly two marks may enter it: the steam hairline and the antenna tip. Everything else is forbidden. This is the rule that holds the design together.
+3. **Table plane, y 640–841 (24%).** Empty weight that keeps the top from floating away; it is the reason the poster sits still.
+
+Filled area: roughly 32% (table, city, mug, type). Empty: 68%. The imbalance is the composition, not a leftover.
+
+## Rhythm
+
+Reading right to left along the horizon: antenna (1.4 mm) → 46 mm gap → tank (78) → 40 mm gap → bulkhead (66) → 44 mm gap → mug (68). Gaps of 40–46 mm, masses of 66–78 mm: an almost even pulse, interrupted once by a hairline. That regularity is the calm. Above it, the single vertical of the steam, drifting 8 mm left over 208 mm with one 2 mm kink at a third of its height, gives the only curved gesture in an otherwise orthogonal picture.
+
+## Value and color
+
+Four tones and one accent. No gradient anywhere — the window field is dead flat, because flatness reads as air and a gradient reads as weather.
+
+| Role | Hex | Coverage |
+|---|---|---|
+| Paper / window light | #E9E4D8 | 64% |
+| Distant city | #B4B0A3 | 3.5% |
+| Table, type, ink | #26241F | 30% |
+| Steam, mug shading | #8F8878 | 0.6% |
+| Tea | #B4763A | 0.3% |
+
+Light comes from the right and slightly behind the mug, 10° above the horizon. It is described only by consequence: the mug’s right wall is blown to paper, the handle’s opening is dark, the city is pale because it is far, and the table is dark because it faces away.
+
+## Typography
+
+- **Title**, two lines, sentence case, with the period: “A quiet morning” / “in the city.” Transitional serif (Tiempos Text, or Source Serif as fallback), 30/40 pt, tracking −0.5%, #26241F, flush left at x = 40. Its thin strokes repeat the steam hairline; its 100 mm measure stops 34 mm short of the mug.
+- **Subtitle**, one line: “CITY READINGS · NO. 01 · 06:00–08:00”. Neutral grotesque (Söhne/Inter), 8 pt, caps, tracking +14%, #6B6455, flush left, baseline 196. Its even rhythm repeats the city band.
+- No other type. No logo, no sponsor strip, no caption. Type occupies the top-left corner and nothing else.
+
+## Handling
+
+Offset, one black plus one spot sienna, 120 gsm uncoated warm stock. Table plane built as 100K + 4C so it sits matte and does not bronze; 3% noise in the dark field only. No varnish, no gradient mesh, no photographic grain in the window field.
+
+## Exclusions
+
+No clouds, birds, sun disc, lens flare, bokeh, vignette, drop shadows, window frames, curtains, plants, crockery sets, people, vehicles, lit windows, or line-art iconography. No second object on the table. Nothing placed in the middle field.
+
+## Generation prompt
+
+> A1 portrait poster, flat vector-like print artwork. Composition split by one horizontal edge at 76% of the height: above it a completely flat warm off-white field #E9E4D8, empty except for a single 1.4 mm antenna mast at 87% width rising from the edge, and a hairline of steam. Below the edge, a solid near-black plane #26241F. On the edge, left of center, a bone-white ceramic mug with a chipped rim and thick handle, its base 28 mm below the edge so its lower third is silhouetted white-on-black and its upper two-thirds nearly dissolves into the pale field, defined only by a thin contour and one shadow plane; inside the rim a small amber ellipse of tea #B4763A. Right of the mug, three flat pale-stone rooftop silhouettes sitting on the edge: a low stair bulkhead, a small water tank on hairline legs, and the antenna. Upper left, small: a two-line serif title “A quiet morning / in the city.” in #26241F and an 8 pt letterspaced grotesque subtitle. A 350 mm tall band across the middle of the sheet contains nothing but the steam hairline and the antenna tip. Four tones total, no gradients, no texture, no border, no people, no sky detail.
+
+**Negative prompt:** gradient sky, sun, clouds, birds, bokeh, film grain, vignette, drop shadow, window frame, curtain, plant, coffee shop props, multiple objects, centered composition, border, logo, mockup, 3D render, depth of field blur, extra text.
