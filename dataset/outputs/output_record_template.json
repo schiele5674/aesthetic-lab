@@ -1,0 +1,12 @@
+{
+  "task_id": "VIS-001",
+  "output_id": "OUT-A",
+  "provider": "REPLACE_ME",
+  "model_name": "REPLACE_ME",
+  "model_version": "RECORD_IF_AVAILABLE",
+  "run_date": "YYYY-MM-DD",
+  "prompt_version": "VIS-001-v1",
+  "generation_settings": {},
+  "raw_output_location": "REPLACE_ME",
+  "notes": "Do not alter the raw output."
+}

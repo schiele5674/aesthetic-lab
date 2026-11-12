@@ -1,0 +1,35 @@
+{
+  "study_id": "AESTHETIC-PILOT-001",
+  "status": "example_data_not_real_experiment",
+  "scale": "1-5",
+  "records": [
+    {
+      "task_id": "LIT-001",
+      "output_id": "OUT-A",
+      "model_label": "Model A",
+      "scores": {
+        "precision": 4,
+        "rhythm": 4,
+        "imagery": 3,
+        "originality": 3,
+        "emotional_effect": 4
+      },
+      "instruction_following": "pass",
+      "rationale": "Illustrative placeholder only; replace with your own evaluation."
+    },
+    {
+      "task_id": "LIT-001",
+      "output_id": "OUT-B",
+      "model_label": "Model B",
+      "scores": {
+        "precision": 3,
+        "rhythm": 4,
+        "imagery": 4,
+        "originality": 4,
+        "emotional_effect": 3
+      },
+      "instruction_following": "partial",
+      "rationale": "Illustrative placeholder only; replace with your own evaluation."
+    }
+  ]
+}
