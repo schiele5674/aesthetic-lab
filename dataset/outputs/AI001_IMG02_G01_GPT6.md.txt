@@ -1,0 +1,39 @@
+Image ID: IMG02
+
+Design Goal: G01 — Contemporary Cultural Exhibition
+1. Style Recognition
+The poster uses a restrained geometric and grid-based visual language, with characteristics associated with modernist graphic design.
+
+Its visual style is defined by a structured layout, thin geometric typography, a limited grayscale palette, and a centrally positioned abstract geometric composition.
+2. Visual Evidence
+- Typography: Thin, elongated uppercase lettering creates a restrained and orderly visual tone.
+- Color: The use of white, black, and gray avoids unnecessary color stimulation.
+- Composition: A visible grid organizes the poster into clearly separated areas.
+- Layout: Exhibition information is distributed around the central geometric image.
+- Imagery: The central abstract geometric form provides a visual focal point without overwhelming the surrounding information.
+- Visual hierarchy: The large gallery heading, central graphic, and smaller exhibition details establish distinct levels of information.
+3. Goal Alignment Score
+4/5
+Good alignment
+
+Explanation:
+
+The poster aligns well with the contemporary cultural exhibition goal. Its restrained palette, structured grid, and abstract geometric composition communicate visual discipline and quiet sophistication.
+
+The typography and layout support a thoughtful atmosphere rather than an energetic or promotional one.
+
+However, the design communicates its cultural identity mainly through its gallery context and visual abstraction. It provides relatively little emotional or narrative imagery that could deepen the exhibition experience.
+4. Strengths
+- Strong compositional order.
+- Consistent typographic treatment.
+- Restrained color palette.
+- Clear separation between graphic expression and exhibition information.
+- A calm and reflective visual atmosphere.
+5. Weaknesses
+- The thin typography may reduce readability at a distance.
+- The abstract central graphic may not communicate the exhibition's subject immediately.
+- The limited tonal range may make the poster feel somewhat detached or emotionally neutral.
+6. Revision Suggestions
+1. Increase the contrast or weight of selected informational text to improve readability.
+2. Introduce one subtle visual element connected to the exhibition's cultural subject, if appropriate.
+3. Preserve the grid and restrained palette while refining the relationship between the central graphic and the exhibition information.
