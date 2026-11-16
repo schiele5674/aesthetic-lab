@@ -1,45 +1,96 @@
 # Aesthetic Lab
+### Evaluating Goal-Oriented Aesthetic Judgment in Multimodal AI
 
-**Exploring Aesthetic Intelligence in AI**
+**Aesthetic Lab** is an exploratory research project investigating whether multimodal AI models can evaluate visual designs according to specific design goals, rather than relying on fixed aesthetic preferences.
 
-A personal research and engineering project exploring how AI systems respond to human aesthetic preferences across visual, literary, and interaction tasks.
+The project focuses on one central question:
 
-> Status: Early exploration · Version 0.1 · Started 2026-11-12
+> Can AI recognize that different visual styles may be appropriate for different design goals?
 
-## Mission
+## 1. Research Motivation
 
-Aesthetic Lab studies how to make aesthetic judgments about AI outputs more explicit, testable, and useful for model evaluation and improvement.
+A visually attractive design is not necessarily an effective design.
 
-This project combines:
-- **Aesthetic research:** define observable criteria for visual, literary, and interaction quality.
-- **Human evaluation:** collect reasoned preferences and identify failure cases.
-- **AI engineering:** use Python, model APIs, and coding agents to organize and analyze experiments.
-- **Agent workflows:** gradually automate repeatable research tasks while keeping human judgment in the loop.
+For example, minimalist visual design may work well for a contemporary art exhibition, while a vibrant and expressive style may be more suitable for a youth music festival.
 
-## Research questions
+This project investigates whether AI models can distinguish between general aesthetic preference and goal-oriented aesthetic judgment.
 
-1. Which qualities make an AI-generated output feel aesthetically successful for a given task?
-2. Can evaluators apply a shared rubric consistently?
-3. Where do model outputs fail despite following the literal instruction?
-4. Can structured feedback and better task specifications improve subsequent outputs?
-5. Which parts of evaluation can be automated, and which require human judgment?
+## 2. Research Questions
 
-## Research tracks
+- Can multimodal AI identify different visual styles?
+- Can AI evaluate whether a design matches its intended goal?
+- Does AI consistently favor certain visual styles across different design contexts?
+- How do AI judgments differ from human evaluations?
 
-| Track | Scope | Initial focus |
+## 3. Research Scope
+
+The first version focuses on visual design evaluation.
+
+Four design contexts:
+
+| ID | Design Context | Desired Qualities |
 |---|---|---|
-| Visual Intelligence | Composition, color, space, style, mood | Does an image satisfy a clearly stated visual intention? |
-| Literary Intelligence | Rhythm, imagery, precision, originality, emotional effect | Does a text communicate with nuance rather than cliché? |
-| Interaction Intelligence | Context, naturalness, tact, relevance, adaptability | Does a response fit the user's intent and conversational context? |
-| Agent Engineering | Data collection, scoring, analysis, reproducibility | Can repeatable evaluation steps be safely automated? |
+| G01 | Contemporary Cultural Exhibition | Quiet, restrained, cultural |
+| G02 | Urban Youth Music Festival | Energetic, youthful, expressive |
+| G03 | Professional Technology Forum | Clear, credible, rational |
+| G04 | Community Lifestyle Festival | Warm, friendly, approachable |
 
-## Repository structure
+Four visual styles:
+
+| ID | Visual Style | Key Characteristics |
+|---|---|---|
+| S01 | Minimalism | Negative space, simplicity, restraint |
+| S02 | Expressive Design | Rich colors, visual layers, strong impact |
+| S03 | Swiss Modernism | Grid systems, order, clear hierarchy |
+| S04 | Hand-drawn Art | Visible strokes, personality, emotional expression |
+
+## 4. Evaluation Framework
+
+The project explores four evaluation dimensions:
+
+1. **Style Recognition** — Can the model identify the visual style?
+2. **Goal Alignment** — Does the design fit the intended design goal?
+3. **Visual Evidence** — Can the model support its judgment with specific visual details?
+4. **Revision Effectiveness** — Can the model suggest meaningful improvements?
+
+A separate exploratory indicator, **Style Preference Bias**, will be used to investigate whether a model systematically favors particular visual styles.
+
+## 5. Human-AI Comparison
+
+Human evaluations will be collected independently and compared with AI outputs.
+
+The comparison will examine:
+
+- Differences in goal-alignment scores.
+- Differences in visual evidence and reasoning.
+- Potential systematic preferences for particular styles.
+- Cases where AI and human judgments disagree.
+
+Human evaluations will be treated as reference judgments, not as an absolute definition of aesthetic quality.
+
+## 6. Research Method
+
+The project follows an exploratory evaluation workflow:
+
+1. Select existing visual design works.
+2. Record image sources and relevant metadata.
+3. Define standardized design goals and evaluation questions.
+4. Collect AI evaluations.
+5. Collect independent human evaluations.
+6. Compare results and analyze disagreement cases.
+
+The initial pilot will be used to refine the dataset and evaluation protocol before any larger-scale testing.
+
+## 7. Project Status
+
+**Current stage:** Research design and pilot dataset development.
+
+This is an exploratory research project. Results will be reported only after experiments have been conducted. No model training or fine-tuning is claimed.
+
+## 8. Repository Structure
 
 ```text
 aesthetic-lab/
-├── README.md
-├── LICENSE
-├── .gitignore
 ├── research/
 │   ├── research-question.md
 │   ├── evaluation-rubric.md
@@ -53,92 +104,25 @@ aesthetic-lab/
 │   ├── literary/
 │   └── interaction/
 ├── src/
-│   └── score_calculator.py
-├── results/
 ├── agent/
-│   └── README.md
 └── journal/
-    └── 2026-11-12-day-01.md
 ```
 
-## First experiment: Aesthetic Benchmark 0.1
+## 9. Research Inspiration
 
-**Question:** Given the same task, how do two selected AI models differ in perceived quality and instruction fulfilment across visual, literary, and interaction outputs?
+This project draws methodological inspiration from open research on multimodal aesthetic evaluation, including AesBench.
 
-### Pilot protocol
+The project adapts these ideas to investigate goal-oriented aesthetic judgment and human-AI evaluation differences.
 
-- Prepare 15 tasks: 5 visual, 5 literary, 5 interaction.
-- Run each task once on each of two selected models: 30 outputs total.
-- Record exact prompt, model name/version, date, settings, and output.
-- Randomize or conceal model identity during human evaluation where practical.
-- Score each output on task-specific criteria using a 1–5 scale.
-- Record a short reason and at least one concrete strength or failure case.
-- Treat the first round as an exploratory pilot, not a general claim about model quality.
+- [AesBench Project](https://aesbench.github.io/)
+- [AesBench GitHub Repository](https://github.com/yipoh/AesBench)
 
-### Important methodological notes
+## 10. Author's Role
 
-- Do not compare image and text scores as if they were directly equivalent.
-- Keep instruction-following separate from aesthetic quality.
-- One evaluator's scores represent that evaluator's preferences, not universal human consensus.
-- If multiple evaluators join, report agreement and disagreements rather than hiding them.
-- Record model versions and generation settings. If they change, treat the run as a new condition.
-- Do not claim that prompting has changed model weights. Prompt iteration is not model fine-tuning.
+This project explores the intersection of visual design, aesthetic evaluation, multimodal AI, and human feedback.
 
-## Getting started
+The research emphasizes task design, visual analysis, evaluation criteria, and qualitative interpretation.
 
-### 1. Open the project
+---
 
-Open this folder in VS Code or another code editor.
-
-### 2. Start with the research documents
-
-Read:
-- `research/research-question.md`
-- `research/evaluation-rubric.md`
-- `journal/2026-11-12-day-01.md`
-
-### 3. Add experimental data
-
-Use the templates in `dataset/`. Keep raw outputs unchanged. Store evaluations separately.
-
-### 4. Run the score calculator
-
-Requires Python 3.10+.
-
-```bash
-python src/score_calculator.py --input dataset/human-evaluations/sample_scores.json --output results/summary.json
-```
-
-### 5. Version your work with Git
-
-```bash
-git init
-git add .
-git commit -m "Initialize Aesthetic Lab research project"
-```
-
-Create an empty GitHub repository named `aesthetic-lab`, then connect it:
-
-```bash
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/aesthetic-lab.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. Never put API keys, passwords, private data, or access tokens in this repository.
-
-## Current status
-
-- [x] Project scope and initial repository structure
-- [x] First research journal entry
-- [x] Initial rubric draft
-- [ ] Select two accessible models and record exact versions
-- [ ] Complete 15 benchmark prompts
-- [ ] Collect 30 outputs
-- [ ] Conduct human evaluation
-- [ ] Analyze results and write the first report
-- [ ] Build a repeatable evaluation workflow
-
-## License and responsible use
-
-This project is for research and learning. Respect model providers' terms, image and text copyrights, privacy, and dataset licenses. Obtain consent before collecting personal or sensitive conversation data. Document limitations and avoid presenting subjective judgments as objective facts.
+*Version 1.0 — Exploratory Research Project*
