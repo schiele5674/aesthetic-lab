@@ -1,207 +1,74 @@
+:::writing{variant="document" id="63821"}
 # Image Source Register
-## Aesthetic Lab — Pilot Dataset V0.1
 
-**Purpose:** Document the origin, authorship, usage rights, and selection rationale of every image used in the pilot study.
+## Aesthetic Lab — Pilot Image Dataset
 
-**Dataset Version:** V0.1  
-**Research Type:** Exploratory Evaluation Study
+**Dataset Version:** 0.1  
+**Status:** Candidate Image Collection  
+**Total Candidate Images:** 8
 
-## 1. Dataset Design
+## 1. Image ID Convention
 
-The initial pilot dataset contains eight visual design works.
+Each selected visual work receives a unique identifier.
 
-It covers two design goals and four visual styles.
+The format is:
 
-### Design Goals
+`IMG01` to `IMG08`
 
-| Goal ID | Design Context | Intended Impression |
-|---|---|---|
-| G01 | Contemporary Cultural Exhibition | Quiet, restrained, cultural |
-| G02 | Urban Youth Music Festival | Energetic, youthful, exciting |
+These identifiers will be used consistently in:
+- Image files
+- AI evaluation records
+- Human evaluation records
+- Experiment reports
+- Data analysis
 
-### Visual Styles
+The original collection order is retained for traceability.
 
-| Style ID | Style Name |
-|---|---|
-| S01 | Minimalism |
-| S02 | Expressive Design |
-| S03 | Swiss Modernism |
-| S04 | Hand-drawn Art |
+## 2. Candidate Image Inventory
 
-### Image ID Structure
+| Image ID | Original Grid Position | Visual Description | Preliminary Style | Status |
+|---|---|---|---|---|
+| IMG01 | 01 | Colorful illustration and decorative typography | Expressive Design | Candidate |
+| IMG02 | 02 | Yellow background and bold typography | Information-oriented Design | Candidate |
+| IMG03 | 03 | Geometric shapes, grid structure, and negative space | Swiss Modernism | Candidate |
+| IMG04 | 04 | Photography combined with typography | Photographic Design | Candidate |
+| IMG05 | 05 | Blue and red geometric shapes | Geometric Design | Candidate |
+| IMG06 | 06 | Black-and-white composition and decorative lettering | Expressive Design | Candidate |
+| IMG07 | 08 | Black silhouette and hand-drawn lettering | Hand-drawn Art | Candidate |
+| IMG08 | 09 | Figurative drawing and grayscale composition | Expressive Art | Candidate |
 
-Each image receives an ID based on its assigned design goal and visual style.
+## 3. Source and Rights Information
 
-Examples:
+The original source and usage rights of each image must be recorded before public redistribution.
 
-- G01-S01
-- G01-S02
-- G01-S03
-- G01-S04
-- G02-S01
-- G02-S02
-- G02-S03
-- G02-S04
+| Image ID | Original Source URL | Creator | License | Rights Verification |
+|---|---|---|---|---|
+| IMG01 | Pending | Pending | Pending | Pending |
+| IMG02 | Pending | Pending | Pending | Pending |
+| IMG03 | Pending | Pending | Pending | Pending |
+| IMG04 | Pending | Pending | Pending | Pending |
+| IMG05 | Pending | Pending | Pending | Pending |
+| IMG06 | Pending | Pending | Pending | Pending |
+| IMG07 | Pending | Pending | Pending | Pending |
+| IMG08 | Pending | Pending | Pending | Pending |
 
-## 2. Image Source Records
+## 4. Important Methodological Notes
 
-Complete one record for every selected image.
+- Preliminary style labels are working classifications, not final ground-truth labels.
+- Visual style and design-goal alignment will be evaluated separately.
+- The original purpose of each historical design may differ from the experimental design context.
+- Images with unverified usage rights must not be redistributed publicly.
+- Image IDs must remain unchanged throughout the experiment.
 
-### G01-S01
+## 5. Current Dataset Status
 
-- **Design Goal:** Contemporary Cultural Exhibition
-- **Visual Style:** Minimalism
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
+Eight images have passed an initial visual screening.
 
-### G01-S02
+They are still candidate images. Final inclusion requires:
+1. Source identification
+2. Image quality review
+3. Rights verification
+4. Final style classification
 
-- **Design Goal:** Contemporary Cultural Exhibition
-- **Visual Style:** Expressive Design
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
-
-### G01-S03
-
-- **Design Goal:** Contemporary Cultural Exhibition
-- **Visual Style:** Swiss Modernism
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
-
-### G01-S04
-
-- **Design Goal:** Contemporary Cultural Exhibition
-- **Visual Style:** Hand-drawn Art
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
-
-### G02-S01
-
-- **Design Goal:** Urban Youth Music Festival
-- **Visual Style:** Minimalism
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
-
-### G02-S02
-
-- **Design Goal:** Urban Youth Music Festival
-- **Visual Style:** Expressive Design
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
-
-### G02-S03
-
-- **Design Goal:** Urban Youth Music Festival
-- **Visual Style:** Swiss Modernism
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
-
-### G02-S04
-
-- **Design Goal:** Urban Youth Music Festival
-- **Visual Style:** Hand-drawn Art
-- **Image Title:**
-- **Creator / Designer:**
-- **Original Source URL:**
-- **Source Platform:**
-- **License / Usage Permission:**
-- **Date Accessed:**
-- **Reason for Selection:**
-- **Local Filename:**
-- **Additional Notes:**
-
-## 3. Image Selection Criteria
-
-Selected images should:
-
-1. Clearly demonstrate one dominant visual style.
-2. Have sufficient visual quality for evaluation.
-3. Contain identifiable design elements such as typography, color, composition, or illustration.
-4. Have a traceable original source.
-5. Have usage terms that can be documented.
-
-Images should not be selected simply because they are visually attractive.
-
-## 4. Important Research Note
-
-The selected images are existing design works. They may not have originally been created for the experimental design goals in this project.
-
-The study evaluates how well each image appears to align with an assigned design goal. It does not claim that the original designer intended that goal.
-
-The assigned goal is an experimental evaluation context, not a statement about the original design brief.
-
-## 5. Copyright and Usage
-
-For every image:
-
-- Record the original source and creator whenever available.
-- Check the image's license or usage permissions.
-- Do not assume that an image found online is free to reuse.
-- Prefer openly licensed works or images with explicit permission.
-- Clearly distinguish between images used for private analysis and images redistributed publicly.
-
-If redistribution permission is unclear, do not upload the original image file publicly. Record its source and use an appropriate reference or link instead.
-
-## 6. Dataset Completion Status
-
-| Item | Status |
-|---|---|
-| G01-S01 | Pending |
-| G01-S02 | Pending |
-| G01-S03 | Pending |
-| G01-S04 | Pending |
-| G02-S01 | Pending |
-| G02-S02 | Pending |
-| G02-S03 | Pending |
-| G02-S04 | Pending |
-
-Update each status only after its source and usage information have been checked.
+No experimental evaluation results are claimed at this stage.
+:::
