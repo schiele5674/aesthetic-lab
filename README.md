@@ -12,6 +12,12 @@ The project explores the intersection of visual design, multimodal AI evaluation
 
 ---
 
+## Featured Research Report
+
+**[Aesthetic Lab — Pilot Study Report v0.1](research/aesthetic-lab-pilot-study-report-v0.1.md)**
+
+The report presents the complete exploratory pilot, including research questions, experimental design, AI evaluation results, style preference bias analysis, human-AI comparison, and research limitations.
+
 ## 1. Research Motivation
 
 A visually attractive design is not necessarily an effective design.
@@ -151,7 +157,7 @@ These cases provide opportunities to investigate differences in how human and AI
 
 The human evaluation is treated as a reference perspective, not an absolute definition of aesthetic quality.
 
-Importantly, the human ratings for IMG02 were submitted after exposure to AI evaluations. Therefore, those two ratings cannot be considered fully independent or blind judgments.
+Importantly, the human ratings for IMG02 were submitted after exposure to AI evaluations. Therefore, those two ratings cannot be considered fully independent or blind judgments.The human evaluation was conducted by one evaluator and should not be interpreted as an expert consensus or an objective ground-truth benchmark. The mean absolute difference is a descriptive statistic for this pilot sample only.
 
 ## 7. Preliminary Findings
 
@@ -195,13 +201,14 @@ The repository is organized into research documentation, experimental datasets, 
 aesthetic-lab/
 ├── README.md
 ├── LICENSE
-├── research/
-│   ├── weekly-reports/
-│   ├── evaluation-rubric.md
-│   ├── research-question.md
-│   ├── style-preference-bias-coding-v0.1.md
-│   ├── style-preference-bias-framework-v0.1.md
-│   └── visual-aesthetic-observations-001.md
+research/
+├── weekly-reports/
+├── aesthetic-lab-pilot-study-report-v0.1.md
+├── evaluation-rubric.md
+├── research-question.md
+├── style-preference-bias-coding-v0.1.md
+├── style-preference-bias-framework-v0.1.md
+└── visual-aesthetic-observations-001.md
 ├── dataset/
 │   ├── human-evaluations/
 │   │   ├── human-evaluation-records-v0.1.md
