@@ -1,3 +1,4 @@
+
 # Aesthetic Lab：AI 目标导向审美判断评测项目
 
 **Project Type:** Independent Exploratory Research  
@@ -209,3 +210,6 @@ Key Materials:
 - `dataset/experiment-progress.md` — 实验进度与结果记录
 
 **Note:** Aesthetic Lab is an independent exploratory research project. The findings are preliminary and should not be interpreted as validated benchmark results or definitive claims about model capabilities.
+
+
+

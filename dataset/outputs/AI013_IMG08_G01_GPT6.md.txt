@@ -1,0 +1,59 @@
+# AI-013 — IMG08 × G01 × GPT-6
+
+**Image ID:** IMG08  
+**Design Goal:** G01 — Contemporary Cultural Exhibition  
+**Model:** GPT-6
+
+## 1. Style Recognition
+
+The poster uses an expressive, painterly graphic style with visible affinities to modernist art exhibition posters.
+
+Its visual language combines a reproduced or reproduction-like artwork, handwritten script, and conventional exhibition information. The grayscale treatment and loose, sketch-like marks create an atmosphere that feels artistic, reflective, and historically grounded.
+
+Rather than presenting culture through decorative symbols, the poster foregrounds the artwork itself. This gives it the character of an art institution communicating an exhibition through the visual language of the artists being presented.
+
+## 2. Visual Evidence
+
+- **Typography:** The handwritten title at the top introduces an informal, expressive quality. The exhibition title at the bottom uses a bold, more conventional typeface, while the smaller supporting lines provide venue, date, and collection information.
+- **Color:** The poster is almost entirely monochromatic, using variations of gray, black, and off-white. This restrained palette supports a quiet and contemplative atmosphere.
+- **Composition:** The main illustration occupies most of the central area. The handwritten heading sits above it, while the exhibition information is organized along the bottom. The overall structure is vertical and clearly divided into image and information zones.
+- **Imagery:** The central image depicts two figures in an intimate, concentrated scene. The loose brushwork, overlapping forms, and expressive faces create a strong sense of artistic observation and human presence.
+- **Visual hierarchy:** The viewer encounters the handwritten title first, then the large central artwork, followed by the bold exhibition title and smaller practical information. The hierarchy is clear, although the central illustration contains many competing marks and shapes.
+
+## 3. Goal Alignment Score
+
+**Score: 4/5 — Good alignment**
+
+The poster aligns well with the G01 goal of communicating culture, reflection, quiet sophistication, and cultural expression.
+
+Its strongest quality is the integration of artwork and exhibition communication. The expressive central image gives the poster a clear cultural identity, while the monochromatic palette avoids unnecessary visual excitement. The use of hand-drawn marks also creates a personal and thoughtful atmosphere.
+
+The composition feels more like an invitation to engage with art than a conventional promotional advertisement. This supports the desired reflective quality and may appeal to culturally interested visitors.
+
+However, the central illustration is visually dense, with many overlapping lines, tonal variations, and irregular shapes. This creates expressive energy but slightly reduces the sense of visual calm. The handwritten heading also has a more spontaneous character than a refined institutional identity.
+
+Overall, the poster communicates culture and artistic expression effectively, while its visual density prevents it from achieving the highest level of quiet sophistication.
+
+## 4. Strengths
+
+- **Strong cultural identity:** The artwork is central to the poster rather than being used as a decorative background.
+- **Expressive visual language:** The loose drawing style communicates artistic individuality and human presence.
+- **Restrained color palette:** The grayscale treatment supports a thoughtful and contemplative atmosphere.
+- **Clear information structure:** The exhibition title, venue, dates, and institutional information are placed in a recognizable hierarchy.
+- **Integration of art and communication:** The visual language is closely connected to the subject of the exhibition, giving the poster a coherent identity.
+
+## 5. Weaknesses
+
+- **Visual density:** The central illustration contains many overlapping forms and marks, which may make the image feel busy at first glance.
+- **Uneven typographic character:** The handwritten heading and bold exhibition title have different visual personalities. Their relationship could be more deliberately integrated.
+- **Limited negative space within the image:** The central artwork occupies most of the available area, leaving relatively little visual breathing room.
+- **Secondary information is small:** The practical details at the bottom may be difficult to read at a distance.
+- **Institutional accessibility:** The poster communicates its artistic subject strongly, but the visual language may feel more like a historical art document than a contemporary invitation for younger audiences.
+
+## 6. Revision Suggestions
+
+1. **Preserve the central artwork.** Its expressive brushwork and human subject are the poster's strongest cultural assets. Replacing it with generic contemporary graphics would weaken the connection to the exhibition.
+
+2. **Create more visual breathing room.** Consider slightly reducing the central image or adjusting its surrounding margins to give the composition a calmer rhythm.
+
+3. **Refine the relationship between the two typographic styles.** The handwritten heading could be retained while the exhibition

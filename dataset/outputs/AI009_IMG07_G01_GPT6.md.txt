@@ -1,0 +1,67 @@
+# AI-009 — IMG07 × G01 × GPT-6
+
+**Image ID:** IMG07  
+**Design Goal:** G01 — Contemporary Cultural Exhibition  
+**Model:** GPT-6
+
+## 1. Style Recognition
+
+The poster uses an experimental typographic and conceptual graphic style, combining a large human-head silhouette with handwritten lettering.
+
+Its visual language is expressive, raw, and deliberately unconventional. Rather than relying on polished typography or decorative imagery, it uses the human figure as a graphic container for language. The result has an intimate, intellectual, and slightly provocative character.
+
+The design also has affinities with conceptual art posters and alternative cultural exhibition graphics.
+
+## 2. Visual Evidence
+
+- **Typography:** The lettering is handwritten and irregular, with visible variations in size, spacing, and stroke quality. It creates a personal, human quality rather than the neutrality of a conventional typesetting system.
+- **Color:** The restricted black-and-white palette creates strong contrast. The absence of additional colors keeps attention on the silhouette and its internal text.
+- **Composition:** A large black head-shaped silhouette occupies most of the poster. The text is placed inside this shape, while the exhibition dates sit along the bottom edge. The composition is visually direct and strongly centered.
+- **Imagery:** The human-head silhouette provides an immediate connection to identity, thought, language, and cultural expression. The handwritten text inside it suggests that the figure is not merely a portrait but also a carrier of ideas.
+- **Visual hierarchy:** The large silhouette attracts attention first, followed by the handwritten exhibition title and then the date information. The hierarchy is simple but distinctive.
+
+## 3. Goal Alignment Score
+
+**Score: 5/5 — Excellent alignment**
+
+The poster aligns strongly with the G01 goal of communicating culture, reflection, quiet sophistication, and cultural expression.
+
+Its visual restraint does not depend on conventional elegance. Instead, it uses a single dominant silhouette and handwritten language to create a thoughtful and intellectually engaging visual experience.
+
+The human-head form can suggest the relationship between identity, thought, and cultural memory. The irregular lettering adds an individual and expressive quality, making the poster feel culturally engaged rather than purely decorative.
+
+Although the graphic is visually bold, it does not create unnecessary visual noise. The limited palette and concentrated composition allow the viewer to focus on the relationship between the figure and the words.
+
+The design therefore demonstrates that a culturally expressive poster can be visually powerful while remaining restrained and contemplative.
+
+## 4. Strengths
+
+- **Strong conceptual integration:** The relationship between the head silhouette and the handwritten text gives the poster a clear conceptual identity.
+- **Distinctive cultural expression:** The irregular lettering creates a personal, human quality that is appropriate for an exhibition context.
+- **Effective visual restraint:** The limited palette and concentrated composition prevent competing visual elements from weakening the central idea.
+- **Memorable silhouette:** The head-shaped graphic is recognizable and gives the poster a strong visual presence.
+- **Intellectual atmosphere:** The combination of portrait-like imagery and language encourages the viewer to consider the relationship between identity, thought, and culture.
+
+## 5. Weaknesses
+
+- **Limited information hierarchy:** The handwritten lettering is expressive but may require more effort to read than conventional exhibition typography.
+- **Dense central area:** The text inside the silhouette occupies much of the black shape, making the central region visually compact.
+- **Limited contextual information:** The poster does not clearly communicate the exhibition's subject matter beyond its title and museum-related wording.
+- **Audience accessibility:** The unconventional lettering and language may be less immediately accessible to viewers unfamiliar with the cultural context.
+- **Strong dependence on the central concept:** The poster's effectiveness relies heavily on the relationship between the silhouette and the text. Without that relationship, the composition would lose much of its meaning.
+
+## 6. Revision Suggestions
+
+1. **Preserve the head silhouette and handwritten language.** These are the central elements of the poster's identity and should not be replaced with generic cultural symbols.
+
+2. **Improve selective legibility.** Consider adjusting the spacing or size of the most important words while retaining the irregular handwritten character.
+
+3. **Strengthen secondary information.** Exhibition details could be organized more clearly so that viewers can understand the event without weakening the central visual concept.
+
+4. **Maintain the monochromatic palette.** Additional colors are not necessary unless they contribute directly to the exhibition's conceptual meaning.
+
+5. **Preserve the visual tension between order and expression.** The poster's strength comes from the contrast between the contained silhouette and the spontaneous lettering. Over-polishing the typography could remove its distinctive character.
+
+**Overall Conclusion:**
+
+IMG07 demonstrates strong alignment with the Contemporary Cultural Exhibition goal. Its conceptual use of a human silhouette, handwritten typography, and restrained monochromatic composition creates a thoughtful and culturally expressive visual identity. Its effectiveness comes not from conventional refinement, but from the meaningful relationship between image and language.

@@ -1,0 +1,60 @@
+# AI-007 — IMG05 × G02 × GPT-6
+
+**Image ID:** IMG05  
+**Design Goal:** G02 — Urban Youth Music Festival  
+**Model:** GPT-6
+
+## 1. Style Recognition
+
+The poster uses a bold, geometric, mid-century modernist graphic language with strong characteristics of institutional exhibition poster design.
+
+Its visual identity is built around oversized uppercase typography, a restricted but high-contrast color palette, and a centrally positioned nested geometric image. The overall style feels formal, structured, and visually assertive rather than casual or spontaneous.
+
+## 2. Visual Evidence
+
+- **Typography:** The large, heavy uppercase title creates a strong visual impact and immediate hierarchy. The compact letter spacing and bold type treatment contribute to a confident, assertive tone.
+- **Color:** Cobalt blue, dark navy, red, and warm off-white create strong contrast. The red and blue combination gives the poster visual intensity and prevents it from feeling visually passive.
+- **Composition:** The central image is organized through repeated nested shapes, producing a clear sense of depth and visual containment. However, the composition is largely symmetrical and static.
+- **Imagery:** The repeated vessel-like silhouettes create a recognizable visual motif. They are expressive as abstract graphic forms, but do not visibly communicate music, performance, or festival participation.
+- **Visual hierarchy:** The large title dominates the upper section, followed by the central graphic. Supporting information is placed at the bottom in smaller type. The hierarchy is clear and controlled.
+
+## 3. Goal Alignment Score
+
+**Score: 3/5 — Moderate alignment**
+
+The poster has several qualities that could support an urban youth music festival: bold typography, strong color contrast, and a distinctive graphic identity. These elements give it visual confidence and a degree of expressive intensity.
+
+However, the overall composition remains formal and static. The nested central shapes create containment rather than movement, and there are no visible references to music, live performance, crowds, sound, or audience participation.
+
+The design therefore achieves some of the desired qualities—particularly boldness and visual expressiveness—but communicates less energy, excitement, and dynamic participation than the specified goal requires.
+
+## 4. Strengths
+
+- Strong typographic impact makes the poster visually noticeable.
+- High-contrast colors create a memorable and assertive visual identity.
+- The central geometric motif is distinctive and gives the design a recognizable visual structure.
+- The restrained number of visual elements allows the main graphic and title to remain prominent.
+- Its unusual graphic language could distinguish a festival from more conventional promotional designs.
+
+## 5. Weaknesses
+
+- The symmetrical and contained composition limits the impression of movement.
+- The visual language feels closer to a formal cultural exhibition than an energetic music event.
+- The imagery does not provide recognizable music-related associations.
+- The small supporting text and formal information layout contribute to an institutional tone.
+- The design does not strongly suggest audience interaction, live performance, or collective participation.
+
+## 6. Revision Suggestions
+
+1. **Introduce directional movement:** Break the strict central symmetry through diagonal elements, overlapping forms, or more dynamic spatial relationships. This could strengthen the impression of motion.
+
+2. **Develop the central motif:** Transform the nested vessel-like shapes into a more rhythmically active graphic system, using repetition, distortion, or variation in scale to suggest sound and musical rhythm.
+
+3. **Strengthen the festival context:** Introduce carefully integrated visual references to sound, performance, or live music. These should complement the existing geometric language rather than simply add decorative music symbols.
+
+4. **Increase the sense of participation:** Consider using layered forms or visual elements that appear to expand beyond the central frame, creating a more open and collective atmosphere.
+
+5. **Preserve the existing visual identity:** Retain the strong blue-red contrast and bold typography. The goal should not be to replace the poster's distinctive style, but to make its existing visual language more energetic and suitable for a music festival.
+
+**Overall Conclusion:**  
+IMG05 has strong graphic impact and a distinctive visual identity. Its main limitation for G02 is not its geometric or restrained style itself, but the relatively static composition and weak communication of music-related context and participation. A revision should preserve its boldness while introducing more movement and a clearer festival atmosphere.

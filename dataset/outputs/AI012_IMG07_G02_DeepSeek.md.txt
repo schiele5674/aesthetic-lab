@@ -1,0 +1,116 @@
+**Image ID:** IMG07
+
+**Design Goal:** G02 — Urban Youth Music Festival. A poster for an urban youth music festival, aimed at young adults interested in contemporary music and urban culture, communicating energy, excitement, youthfulness, and participation, with a desired character of energetic, bold, expressive, and dynamic.
+
+---
+
+**1. Style Recognition**
+
+The dominant style is **raw hand-painted poster art in a DIY / art-brut register** — the visual dialect of punk and hardcore flyers, zine covers, and street-posted gig bills, executed as a single brush gesture rather than as a layout.
+
+Observable characteristics:
+
+- **Monochrome only**: dense black applied by brush on warm off-white paper; no second color, no halftone, no image.
+- **One hand-made mass**: a large, irregular silhouette whose edges thicken, thin, and hesitate, with uneven ink density and a built-up base.
+- **Scrawled lettering as the sole typography**: thin white letters scratched into the black field, plus black hand-drawn capitals on the lower margin. No typeset face anywhere.
+- **Deliberate anti-design**: no grid, no alignment, no consistent stroke weight, no repeating system; letters lean, collide, and vary in size.
+- **Gesture over composition**: the sheet reads as a mark made quickly and confidently, then signed and dated.
+
+The visible text — "CHARLES BLAIS," "EESTI KUNSTIMUUSEUM" (Art Museum of Estonia), "JAN.–FEB. 1991" — frames the artefact as a museum exhibition notice from 1991, and the evaluation below treats its visible design attributes against a festival brief. I make no claim about the maker's intent.
+
+---
+
+**2. Visual Evidence**
+
+**Typography**
+- "CHARLES" is small, wavering, and crowded; the R and the next E share strokes, so the name does not resolve at first glance.
+- "BLAIS" is the largest element on the sheet, spanning nearly the width of the black mass in thin, scratchy white capitals of uneven height — it functions like a band name shouted across a wall.
+- "EESTI / KUNSTIMU / USEUM" is broken mid-word across two lines, a break that reads as an error rather than a device.
+- "JAN.-FEB.1991" runs along the lower white margin in black hand-drawn capitals with a dipping baseline and characters of unequal size.
+- **Not present anywhere**: lineup, set times, venue address, ticket price, ticket link, social handle, QR code, festival name, or a call to action. The sheet supplies an artist, an institution, and a two-month window.
+
+**Color**
+- Black and paper white only. Contrast is maximal, but there is no hue at all — no heat, no electrical accent, no neon.
+- The absence of color produces severity and print economy; it does not produce the chromatic excitement normally associated with a music bill.
+
+**Composition and layout**
+- One black form fills roughly the upper four-fifths of the sheet: bulbous at the shoulders, protruding on the left, tapering to a narrow base. It can be read as a head, a bust, a fist, or a stone — the ambiguity is unresolved.
+- White text sits entirely inside the black; the date sits entirely outside it on the white margin.
+- The mass presses against the top edge and nearly touches the left edge; the date line sits low. Margins are thin and uneven, and there is no open field available for additional information without recomposing.
+- The form is asymmetrical — heavier on the left, notched on the right — which gives it a lopsided, off-balance charge rather than a centered calm.
+
+**Imagery**
+- No crowd, no performer, no stage, no city, no photograph, no instrument. The image is a single silhouette that also serves as a container for words.
+- A stray vertical hook stroke hangs from the top of the mass into the first line — an unresolved mark.
+
+**Visual hierarchy**
+1. "BLAIS" (largest, brightest white-on-black).
+2. The black mass as silhouette.
+3. "KUNSTIMU / USEUM."
+4. "CHARLES" and "EESTI."
+5. "JAN.-FEB.1991," large in the lower margin but isolated from the rest.
+
+Hierarchy is by size alone; nothing indicates what matters beyond loudness.
+
+---
+
+**3. Goal Alignment Score**
+
+**Score: 3/5**
+
+Explanation: Of the four desired qualities, this poster genuinely delivers **bold** and **expressive**. The black mass has physical presence, the hand-scrawled capitals carry the authentic, unmediated aggression of a gig flyer, and the lopsided silhouette creates a certain raw charge. For an underground or experimental music bill, this visual dialect would be credible and even desirable — the DIY lineage it belongs to *is* the language of youth music subculture.
+
+But **energetic** and **dynamic** are only half-met, and **youthfulness** and **participation** are largely absent. The composition is a single static object: one shape, one gesture, one hit. There is no repetition, no rhythm, no overlap, no rotation, no motion cue, and no chromatic heat to generate the sense of a night in motion. The content is a museum notice — an institution's name, an artist's name, and a month range — with nothing that resembles a lineup, a venue, a time, a ticket, or an invitation to join. A young audience encountering this on a wall would read "gallery exhibition," not "festival," and would have no way to act on it even if they wanted to. Boldness without event information and without dynamics leaves the poster expressive about itself rather than about the festival.
+
+---
+
+**4. Strengths**
+
+- **Unmissable at street scale.** A single solid black mass with white text inside is legible and arresting from a distance and survives the visual noise of an urban wall better than a busy design would.
+- **Authentic subcultural dialect.** Hand-scrawled lettering and rough brush edges read as flyer culture, not advertising — a real asset for credibility with young music audiences.
+- **Genuine boldness.** The scale of "BLAIS" and the refusal to soften the silhouette show nerve; the sheet is not timid, and nerve is a prerequisite for this brief.
+- **Asymmetry with charge.** The heavier left side and notched right edge keep the form from feeling centered and official; it has an off-kilter energy that suits a loud bill.
+- **DIY production logic.** One ink, one screen, no photography: cheap, fast, repeatable, and extendable to zines, stickers, and merch — exactly how youth music scenes actually print.
+- **Headline-as-image.** Treating the principal name as a large, imperfect drawn object rather than typeset text is precisely the right instinct for a festival identity; it just needs a festival to name.
+
+---
+
+**5. Weaknesses**
+
+- **Category mismatch.** The words "EESTI KUNSTIMUUSEUM" and a 1991 month range announce an art-museum exhibition. Nothing on the sheet says music, festival, or night out.
+- **No event information.** No lineup, venue, date range with days, set times, price, ticket link, or social handle. The poster cannot convert interest into attendance.
+- **No participation pathway.** No QR code, no call to action, no "join," no "afterparty," no handle to follow. The brief explicitly names participation, and the sheet offers none.
+- **Static rather than dynamic.** One gesture, one silhouette, one value. There is no repetition, rhythm, layering, cropping, rotation, or motion to create pace.
+- **No chromatic energy.** Pure black and white is sombre; on a festival wall it competes poorly against heat, neon, and color.
+- **No youth or urban markers.** No crowd, no photography, no street texture, no density of names, no digital-native cue. The sheet belongs to the gallery, not the city.
+- **Readability failures.** Thin white scratches on black collapse at thumbnail size; the mid-word break "KUNSTIMU / USEUM" and the colliding "CHARLES" read as mistakes and erode confidence.
+- **No room to add anything.** The mass crowds the top and left edges, so new information cannot be added without reworking the composition.
+- **Ambiguous form.** Head, fist, or stone — the silhouette provides no anchor connecting it to music, youth, or the city.
+
+---
+
+**6. Revision Suggestions**
+
+1. **Turn the silhouette into a repeatable stamp.** Crop, scale, and repeat the black head three to five times across the sheet at different sizes and slight rotations, overlapping the edges. *Why:* repetition creates rhythm and pace — the single most direct way to convert one static gesture into the visual equivalent of a running beat, without losing the existing image.
+
+2. **Replace the museum line with a lineup.** Keep the hand-drawn language for the festival name only, and set the act names in a tight, large, contemporary condensed face that fills the space the museum text currently occupies. *Why:* a dense lineup is both the strongest "music festival" signal and a generator of typographic energy; it gives young viewers something to scan, argue about, and photograph.
+
+3. **Add one electrical color.** Keep the black mass but print it over, or against, a fluorescent ink — acid yellow, signal orange, hot magenta — or invert the scheme to fluorescent on black. *Why:* the current tonal range is severe and slightly funereal; one unnatural accent converts gallery severity into nightlife without sacrificing the DIY economy.
+
+4. **Introduce deliberate motion.** Skew the whole composition a few degrees, stretch the silhouette vertically as if pulled, add a hard shadow or a duplicated offset layer, or let the lettering break past the sheet edge. *Why:* the goal asks for dynamic, and the sheet currently has no vector, no repeat, and no implied movement; a single directional distortion gives it velocity.
+
+5. **Make the essential information the second-loudest element.** Set date, city, venue, and time large, high-contrast, and unmistakable, placed where the eye exits the composition. *Why:* a festival poster is judged in a glance, and that glance is asking "when and where."
+
+6. **Add an explicit participation hook.** Include a ticket link, a QR code, a social handle, and a short imperative ("three nights," "late," "join"). *Why:* the brief names participation as a communication goal; the poster must offer an entry point rather than only a mood.
+
+7. **Inject one human or urban trace.** Overprint a coarse halftone crowd, a grainy figure, or a hand-scrawled tag layer on top of the flat black. *Why:* the sheet currently contains no body, no audience, and no city; a single human trace anchors it in youth culture while the black mass keeps it from becoming generic.
+
+8. **Fix the typographic accidents.** Resolve the mid-word break in the museum name, and give the artist or festival name one clean, unambiguous setting in addition to the scrawled version. *Why:* rawness should look chosen, not broken; removing two visible errors makes the remaining roughness read as style.
+
+9. **Design it as a campaign, not a sheet.** Produce a variant for each headline act by redrawing the silhouette, plus square and vertical social cuts and a short animated stroke-draw. *Why:* youth music campaigns live across walls, stories, and screens; a modular system built on one strong hand-made mark demonstrates energy through variation and gives the audience something to collect.
+
+10. **Push the material.** Print black at full density on newsprint, kraft, or uncoated white, or go the opposite way with fluorescent ink on black stock. *Why:* the paper quality is currently the only thing carrying the "real print" feeling; making that choice explicit turns the object into a piece of street culture rather than a museum reproduction.
+
+---
+
+*Note on limitations: the sheet supplies only an artist, an institution, and a month range; the event's actual lineup, dates, venue, and audience language are not determinable from the image, and the brief does not specify a music subgenre. The visible 1991 date places the artefact before the brief, so "contemporary" is assessed as visual language rather than production date. The score reflects alignment with G02 only — the same sheet scores higher against a quiet gallery-exhibition goal.*

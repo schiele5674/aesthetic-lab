@@ -1,0 +1,71 @@
+# AI-015 — IMG08 × G02 × GPT-6
+
+**Image ID:** IMG08  
+**Design Goal:** G02 — Urban Youth Music Festival  
+**Model:** GPT-6
+
+## 1. Style Recognition
+
+The poster uses an expressive, painterly graphic style with visible sketch-like marks, loose brushwork, and a monochromatic visual language.
+
+Its central illustration depicts two human figures in an intimate, concentrated scene. The irregular lines, overlapping forms, and unfinished-looking treatment create an experimental and artistic atmosphere.
+
+The design feels closer to an art exhibition poster than a conventional music festival advertisement. However, its expressive figures and gestural marks provide some potential for communicating movement and energy.
+
+## 2. Visual Evidence
+
+- **Typography:** The handwritten title at the top creates an informal and artistic impression. The bold exhibition title at the bottom provides a more conventional information hierarchy, but its institutional character does not strongly suggest a youth-oriented music event.
+- **Color:** The grayscale palette creates tonal depth through variations of black, gray, and off-white. It gives the poster a distinctive visual identity, although it does not use color contrast to communicate excitement or festival energy.
+- **Composition:** The central illustration occupies most of the poster. The two figures overlap and interact visually, creating a sense of activity within the image. Nevertheless, the overall vertical arrangement remains relatively stable.
+- **Imagery:** The figures are expressive and appear engaged in an activity. Their gestures and overlapping forms create some visual movement, but the scene does not visibly communicate music, performance, or audience participation.
+- **Visual hierarchy:** The handwritten heading, central artwork, and bold exhibition information form a clear sequence. The composition is easy to understand, but the information system is designed for an exhibition rather than a festival.
+
+## 3. Goal Alignment Score
+
+**Score: 3/5 — Moderate alignment**
+
+IMG08 has some qualities that could support an alternative or art-oriented youth music festival. The expressive figures, gestural brushwork, and unconventional visual treatment create individuality and artistic energy.
+
+The overlapping figures also provide more visual activity than a completely static geometric composition. Their gestures and the irregular marks introduce a sense of movement, even though the image does not explicitly represent music.
+
+However, the overall atmosphere remains contemplative and institutionally framed. The grayscale palette, exhibition-oriented typography, and absence of music-related references make it difficult to immediately associate the poster with a contemporary youth music festival.
+
+The design communicates artistic expression more effectively than excitement, participation, and musical identity.
+
+Therefore, it has moderate alignment with G02. Its expressive visual language could be developed into a distinctive festival identity, but the current poster does not fully communicate the intended event atmosphere.
+
+## 4. Strengths
+
+- **Expressive imagery:** The two figures create a human-centered visual identity rather than relying on generic decorative graphics.
+- **Gestural energy:** Loose brushwork and overlapping forms introduce visual movement and spontaneity.
+- **Distinctive artistic character:** The hand-drawn appearance could appeal to audiences interested in independent and experimental cultural events.
+- **Clear main image:** The central illustration remains the dominant visual element and gives the poster a recognizable identity.
+- **Potential for adaptation:** Its expressive visual language could be extended into a broader festival graphic system.
+
+## 5. Weaknesses
+
+- **Weak music association:** The image does not contain recognizable musical instruments, performers, stages, or sound-related visual references.
+- **Limited excitement:** Although the illustration contains movement, the overall composition does not create a strong sense of excitement or urgency.
+- **Restrained color expression:** The monochromatic palette limits the use of color as a means of communicating youthful energy.
+- **Institutional information style:** The exhibition title and supporting details make the poster feel more like an art institution's announcement than a festival invitation.
+- **Limited participation cues:** The design does not suggest a shared live event experience or encourage viewers to participate.
+
+## 6. Revision Suggestions
+
+1. **Preserve the expressive hand-drawn artwork.** Its human-centered and gestural quality is the strongest visual asset. Avoid replacing it with generic music festival imagery.
+
+2. **Develop the sense of movement.** Use selected brushwork, repeated gestures, or enlarged fragments of the figures to create a more dynamic visual rhythm.
+
+3. **Introduce a carefully selected accent color.** A vivid color could create stronger energy while retaining the original grayscale visual identity.
+
+4. **Strengthen the musical context.** Integrate abstract sound patterns, performance-related imagery, or other music-related visual elements into the existing painterly language.
+
+5. **Adapt the typography to the festival context.** Retain the expressive handwritten character but create a stronger and more energetic hierarchy for the festival name and essential event information.
+
+6. **Add participation-oriented information.** Include the artist lineup, venue, date, and a clear invitation to attend.
+
+7. **Consider the festival's musical identity.** If the event focuses on experimental or alternative music, the current artistic character may be particularly useful. If it targets a broader youth audience, stronger visual cues for excitement and participation may be necessary.
+
+**Overall Conclusion:**
+
+IMG08 has moderate potential for an urban youth music festival. Its expressive figures and gestural brushwork provide artistic individuality and some visual movement, but the current design communicates an art exhibition more clearly than a live music event. The most effective revision would preserve its painterly identity while strengthening musical context, dynamic rhythm, and audience participation.

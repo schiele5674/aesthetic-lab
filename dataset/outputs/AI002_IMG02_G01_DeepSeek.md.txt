@@ -1,0 +1,52 @@
+**Image ID:** IMG02
+**Design Goal:** G01 — Contemporary Cultural Exhibition. Poster for a contemporary cultural exhibition; audience: young adults and culturally interested visitors; communication goal: culture, reflection, quiet sophistication; desired qualities: calm, restrained, thoughtful, culturally expressive.
+
+---
+
+**1. Style Recognition**
+
+A late-20th-century institutional typographic poster in the Swiss-derived, center-axial tradition: a single condensed grotesque in two weights (bold display, lighter supporting caps), set in three inks (slate-blue, brick-red, cream paper), closed by two thin rules bracketing the title, with a low-contrast maple-leaf watermark and a small heraldic crest as the only marks. The voice is that of a museum announcement or exhibition label — symmetrical, declarative, archival — rather than the asymmetric, image-led, large-scale typography that currently signals "contemporary" in cultural programming. Notably, it treats the Czech and English titles as typographic mirrors and uses guillemets » « as framing devices, which gives a European editorial rather than an Anglo-American gallery flavor.
+
+**2. Visual Evidence**
+
+- **Typography.** Bold condensed caps with very tight leading — the baselines of "THE WORLD / OF HOCKEY" nearly touch, so the two lines read as one dense block. Supporting text is lighter, letter-spaced caps. The display title occupies roughly 7.5% of the poster width in cap height; the date is about two-thirds of that; the venue and credit lines are roughly one-third.
+- **Color.** Warm cream-khaki ground (measured ≈ RGB 211/206/140 upper left, falling to ≈ 190/183/111 lower right), slate-blue ink (≈ #45505B), vermilion rules (core ≈ #DE6F41, reading as brick at a distance). The single red flame in the crest quietly echoes the rules, tying the base to the top.
+- **Composition.** Strict central axis, ~10% side margins, five stacked horizontal zones: four-line credit block / rule / title / rule / venue / crest / date. No diagonals, no grid tension, no overprinting — except the leaf watermark, which is the one element allowed to sit behind type.
+- **Layout and hierarchy.** The credit block is four centered lines tall and its second line is the widest text on the sheet after the title — it reads as letterhead and competes with the exhibition name. "VÝSTAVNÍ PROSTOR" is set at nearly the same weight as the venue it introduces, flattening that sub-hierarchy. The date is large and clean at the base and functions as a sign-off.
+- **Imagery.** No photograph, no artifact, no human presence. The visual content is entirely marks: a pale-yellow maple leaf with a script "Hockey Canada" wordmark, and an approximately 60 px-wide Hockey Hall of Fame crest whose banner text is unreadable at preview size.
+- **Observed collisions.** The lower rule passes straight through the "CANADA" script; the leaf's upper tip nearly touches the last credit line; word spaces in "MUZEA TĚLESNÉ VÝCHOVY A SPORTU" collapse to near nothing; the venue address exists only in Czech while the title is bilingual; no year appears with the dates.
+- **Limitations.** The file is a 400×567 px photograph of a printed sheet, with visible lighting falloff and slight edge darkening; the yellow cast may be paper aging or capture light rather than ink choice, and small type (crest banners, fine spacing) cannot be judged at print resolution. The reading below is limited to what survives at this size.
+
+**3. Goal Alignment Score**
+
+**Score: 3/5**
+
+**Explanation:** The poster is genuinely calm and restrained — one type family, three inks, no shouting, no ornamental excess — and its symmetry and restraint read as considered rather than careless. That secures the atmosphere half of the brief. What it does not secure is "contemporary" and "culturally expressive." The center-axial, letter-spaced, rules-and-watermark construction is the visual grammar of a 1980s–90s institutional announcement; for the stated audience of young adults and culturally interested visitors, it is more likely to be read as an archival or official notice than as a live cultural proposition. Cultural specificity is carried almost entirely by the bilingual title and a maple leaf, with no visual account of Prague, of hockey as culture, or of the exhibition's subject matter. "Quiet sophistication" is also partly undercut by unresolved typesetting: the rule slicing the "CANADA" script, the collapsed word spaces, and the four-line credit stack at the top that flattens the hierarchy into letterhead. This score measures alignment with G01 as stated; it is not a claim about the designer's original brief.
+
+**4. Strengths**
+
+- **Disciplined restraint.** A single type family in two weights and a three-ink palette produce a coherent, low-volume surface that reads as composed rather than empty.
+- **Bilingual parity as design.** The Czech and English titles receive identical size and treatment, stacked as mirror lines — a courteous, culturally aware gesture that most bilingual posters mishandle by subordinating one language.
+- **The watermark is quiet, not loud.** Using the maple leaf as a pale tonal field rather than a solid logo keeps the Canadian reference present without breaking the calm.
+- **A clear base line.** The date, set large and isolated at the foot, gives the composition an exhibition-label finality and a natural reading terminus.
+- **Axial discipline.** Everything is centered with consistent side margins and even vertical rhythm; the poster never looks accidental.
+
+**5. Weaknesses**
+
+- **Period voice versus "contemporary."** The letter-spaced caps, centered stack and thin rule brackets place it in a previous institutional era; there is no contemporary editorial device — no scale jump, no asymmetry, no image-field — to signal present-day cultural programming.
+- **No sensory hook for the target audience.** A text-only sheet with a faint leaf offers young adults nothing to look at before they decide to read; "reflection" is present, "invitation" is not.
+- **Flattened hierarchy.** The four-line credit block is optically close to the title in mass, and "VÝSTAVNÍ PROSTOR" carries nearly the same weight as the venue name it introduces.
+- **Unresolved collisions.** The lower rule crosses the "CANADA" script; the leaf tip crowds the credit line; word spacing collapses in the longest venue line. In a design whose argument is precision and calm, these read as lapses rather than texture.
+- **Incomplete information.** Dates without a year, and an address given only in Czech, leave the international half of the bilingual proposition unserved.
+- **Crest legibility.** The Hockey Hall of Fame emblem is too small and too low-contrast to function as a credential at poster scale; it becomes an indecipherable smudge at the foot of the information block.
+
+**6. Revision Suggestions**
+
+1. **Rebuild the page on a two-zone editorial grid rather than a single center axis.** Set the title flush left in the upper third, place venue and date as a baseline pair along the bottom, and reduce the credits to one small line under a "pořádají / presented by" label. *Why:* it preserves calm while replacing the letterhead read with a contemporary institutional voice, and it restores a clear three-tier hierarchy (title → place/date → credits).
+2. **Resolve the title's collision zone.** Either shrink the leaf and lift it so it sits fully behind the title's first two lines, or shorten the lower rule to the title's measure and drop the script wordmark from beneath it. *Why:* calm depends on clean continuities; a rule cutting a wordmark reads as an accident and undermines the "thoughtful" quality the brief asks for.
+3. **Replace the watermark with one restrained image.** A duotone archival photograph (arena, mask, crowd) at roughly a third of the field in the same slate ink, or a single large cropped leaf shape bleeding off one edge. *Why:* young culturally interested visitors need one visual entry point; a duotone, low-saturation treatment keeps the atmosphere quiet while making the poster about hockey as culture rather than about a title.
+4. **Open the type scale and repair the small text.** Increase the gap between title and supporting copy, set the venue block one weight lighter at normal tracking with restored word spaces, and add the year to the date line. *Why:* hierarchy becomes legible at a glance, and a legible address and dated run make the poster usable for the audience it is meant to reach.
+5. **Give the crew a legible role or remove it.** Enlarge the crest to a size at which its banner text can be read, or replace it with a plain set logotype on one line. *Why:* a credential that cannot be read adds noise without authority; either it certifies the exhibition or it should not occupy space.
+6. **Make the red rules do structural work.** Consolidate them into one heavier band (or one rule plus one rule at the base) used as the single color event of the sheet. *Why:* the current twin hairlines are decorative where they could be compositional, and a single decisive accent is more "quietly sophisticated" than two tentative ones.
+
+*Note: per the study protocol, these are alignment recommendations against G01, not a judgment of the poster's aesthetic merit or of its designer's intent.*

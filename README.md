@@ -1,144 +1,262 @@
 # Aesthetic Lab
 
-**Exploring Aesthetic Intelligence in AI**
+### Evaluating Goal-Oriented Aesthetic Judgment in Multimodal AI
 
-A personal research and engineering project exploring how AI systems respond to human aesthetic preferences across visual, literary, and interaction tasks.
+**Aesthetic Lab** is an exploratory research project investigating whether multimodal AI models can evaluate visual designs according to specific design goals, rather than relying on fixed aesthetic preferences.
 
-> Status: Early exploration · Version 0.1 · Started 2026-11-12
+The central research question is:
 
-## Mission
+> Can AI recognize that different visual styles may be appropriate for different design goals?
 
-Aesthetic Lab studies how to make aesthetic judgments about AI outputs more explicit, testable, and useful for model evaluation and improvement.
+The project explores the intersection of visual design, multimodal AI evaluation, aesthetic judgment, and human feedback.
 
-This project combines:
-- **Aesthetic research:** define observable criteria for visual, literary, and interaction quality.
-- **Human evaluation:** collect reasoned preferences and identify failure cases.
-- **AI engineering:** use Python, model APIs, and coding agents to organize and analyze experiments.
-- **Agent workflows:** gradually automate repeatable research tasks while keeping human judgment in the loop.
+---
 
-## Research questions
+## 1. Research Motivation
 
-1. Which qualities make an AI-generated output feel aesthetically successful for a given task?
-2. Can evaluators apply a shared rubric consistently?
-3. Where do model outputs fail despite following the literal instruction?
-4. Can structured feedback and better task specifications improve subsequent outputs?
-5. Which parts of evaluation can be automated, and which require human judgment?
+A visually attractive design is not necessarily an effective design.
 
-## Research tracks
+For example, a restrained visual style may work well for a contemporary cultural exhibition, while a vibrant and expressive style may be more suitable for a youth music festival.
 
-| Track | Scope | Initial focus |
+An AI model should not simply reward a design because it looks visually attractive or follows a familiar aesthetic convention. It should consider the intended audience, communication purpose, and design context.
+
+This project investigates the distinction between **general aesthetic preference** and **goal-oriented aesthetic judgment**.
+
+## 2. Research Questions
+
+- **RQ1 — Style Recognition:** Can multimodal AI identify and describe different visual styles?
+- **RQ2 — Goal Alignment:** Can AI evaluate whether a design is appropriate for a specific design goal?
+- **RQ3 — Style Preference Bias:** Does AI consistently favor certain visual styles across different design contexts?
+- **RQ4 — Human-AI Judgment Gap:** How do AI judgments differ from human evaluations?
+
+## 3. Research Design
+
+The first pilot focuses on two design contexts:
+
+| ID | Design Context | Desired Qualities |
 |---|---|---|
-| Visual Intelligence | Composition, color, space, style, mood | Does an image satisfy a clearly stated visual intention? |
-| Literary Intelligence | Rhythm, imagery, precision, originality, emotional effect | Does a text communicate with nuance rather than cliché? |
-| Interaction Intelligence | Context, naturalness, tact, relevance, adaptability | Does a response fit the user's intent and conversational context? |
-| Agent Engineering | Data collection, scoring, analysis, reproducibility | Can repeatable evaluation steps be safely automated? |
+| G01 | Contemporary Cultural Exhibition | Quiet, restrained, thoughtful, culturally expressive |
+| G02 | Urban Youth Music Festival | Energetic, youthful, expressive, dynamic |
 
-## Repository structure
+Four visual design works were selected for evaluation:
+
+- IMG02
+- IMG05
+- IMG07
+- IMG08
+
+The pilot uses two AI models: GPT-6 and DeepSeek.
+
+### Experimental Structure
+
+| Component | Quantity |
+|---|---:|
+| Selected visual works | 4 |
+| Design goals | 2 |
+| AI models | 2 |
+| AI evaluation records | 16 |
+| Human evaluation records | 8 |
+| Bias coding categories | 5 |
+| Total bias coding items | 80 |
+
+The experimental structure is:
+
+**4 images × 2 design goals × 2 AI models = 16 AI evaluations.**
+
+This is a small exploratory pilot, not a large-scale benchmark.
+
+## 4. Evaluation Framework
+
+The project uses a standardized visual evaluation prompt, **Visual Evaluation Prompt v0.1**.
+
+Each AI evaluation examines three dimensions:
+
+1. **Style Recognition** — Identifies and describes the visual style.
+2. **Visual Evidence** — Supports observations with specific visual details, including typography, color, composition, layout, imagery, and visual hierarchy.
+3. **Goal Alignment** — Evaluates how well the design serves its specified communication goal, using a 1–5 scale.
+
+The evaluation is goal-oriented rather than based on universal beauty or the model's personal aesthetic preference.
+
+### Style Preference Bias Coding
+
+A separate coding framework examines five potential bias categories:
+
+- Minimalism Bias
+- Low-saturation Bias
+- Symmetry Bias
+- Typography Bias
+- Complexity Aversion
+
+Each coding item is assigned one of three values:
+
+| Score | Interpretation |
+|---|---|
+| 0 | No observable evidence of the bias |
+| 1 | Possible evidence, but insufficient to confirm |
+| 2 | Clear evidence of the bias in the evaluation |
+
+A single occurrence does not establish a systematic model bias. Repeated patterns across different images and design goals require further investigation.
+
+## 5. Preliminary Results
+
+### 5.1 AI Evaluation Scores
+
+| Model | Number of Evaluations | Mean Goal Alignment Score |
+|---|---:|---:|
+| GPT-6 | 8 | 3.50 |
+| DeepSeek | 8 | 2.875 |
+
+The following table summarizes the average AI scores across both models:
+
+| Image | G01 Average | G02 Average |
+|---|---:|---:|
+| IMG02 | 3.5 | 2.0 |
+| IMG05 | 4.0 | 2.5 |
+| IMG07 | 4.0 | 3.0 |
+| IMG08 | 4.0 | 2.5 |
+
+In this pilot dataset, all four images received higher average scores for G01 than for G02.
+
+This may indicate that the selected works are generally more aligned with the cultural exhibition context. However, the result may also reflect differences in how specifically the two design goals were defined. It does not establish that the models are inherently better at evaluating one design context.
+
+### 5.2 Style Preference Bias Coding
+
+A total of 80 coding items were examined across 16 AI evaluation records and five potential bias categories.
+
+| Coding Result | Number of Items |
+|---|---:|
+| 0 — No observable evidence | 79 |
+| 1 — Possible evidence | 1 |
+| 2 — Clear evidence | 0 |
+| **Total** | **80** |
+
+One possible Complexity Aversion signal was identified in AI-012, involving a comment about visual simplicity and street-level readability.
+
+After manual review, this case remained classified as possible evidence rather than a confirmed bias.
+
+No systematic style preference bias can be established from the current sample.
+
+## 6. Human-AI Comparison
+
+Eight human evaluation records were compared with the average AI scores for the same image-goal pairs.
+
+The mean absolute difference between human scores and AI average scores was **0.4375 points** on the 1–5 scale.
+
+Two notable cases were:
+
+- **IMG07 × G01:** Human score 5; AI average 4.0.
+- **IMG08 × G01:** Human score 5; AI average 4.0.
+
+These cases provide opportunities to investigate differences in how human and AI evaluators interpret cultural expression, visual atmosphere, and goal alignment.
+
+The human evaluation is treated as a reference perspective, not an absolute definition of aesthetic quality.
+
+Importantly, the human ratings for IMG02 were submitted after exposure to AI evaluations. Therefore, those two ratings cannot be considered fully independent or blind judgments.
+
+## 7. Preliminary Findings
+
+The first pilot provides several observations:
+
+1. **Design context matters.** The same visual work can receive different goal-alignment scores depending on the intended communication purpose.
+2. **Model judgments can differ.** GPT-6 and DeepSeek did not always assign the same score to the same image-goal pair.
+3. **Potential bias requires careful interpretation.** A preference for simplicity or restrained colors should not automatically be classified as bias if it is justified by the design goal.
+4. **Human-AI disagreement is worth investigating.** Numerical differences can point toward questions about visual evidence, interpretation, and evaluation criteria.
+
+These findings are preliminary observations, not general conclusions about multimodal AI systems.
+
+## 8. Limitations and Future Work
+
+The current pilot has several limitations:
+
+- Only four visual works were evaluated.
+- Only two design goals were included in the completed experiment.
+- Only one human evaluator participated.
+- The human ratings for IMG02 were not fully blind to AI evaluations.
+- The two AI models may use different internal scoring tendencies.
+- There is no independent expert consensus benchmark.
+- The bias coding framework requires further validation with a larger dataset.
+
+### Future Work
+
+The next research stage will focus on:
+
+1. Expanding the image dataset and design contexts.
+2. Recruiting additional independent human evaluators.
+3. Improving blind evaluation procedures.
+4. Refining the bias coding framework.
+5. Investigating recurring differences between model evaluations and human judgments.
+6. Exploring how evaluation findings can be translated into more actionable model feedback.
+
+## 9. Repository Structure
+
+The repository is organized into research documentation, experimental datasets, evaluation records, and analysis materials.
 
 ```text
 aesthetic-lab/
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── research/
-│   ├── research-question.md
+│   ├── weekly-reports/
 │   ├── evaluation-rubric.md
-│   └── weekly-reports/
+│   ├── research-question.md
+│   ├── style-preference-bias-coding-v0.1.md
+│   ├── style-preference-bias-framework-v0.1.md
+│   └── visual-aesthetic-observations-001.md
 ├── dataset/
-│   ├── prompts/
+│   ├── human-evaluations/
+│   │   ├── human-evaluation-records-v0.1.md
+│   │   └── human-evaluation-template.md
+│   ├── images/
 │   ├── outputs/
-│   └── human-evaluations/
+│   ├── prompts/
+│   ├── Aesthetic_Lab_16_AI_Original_Text_Audit_v1.1_corrected.xlsx
+│   ├── experiment-progress.md
+│   ├── experiment-tracking-sheet.md
+│   ├── image-source-register.md
+│   ├── model-information.md
+│   └── sample-selection-record.md
 ├── experiments/
-│   ├── visual/
+│   ├── interaction/
 │   ├── literary/
-│   └── interaction/
-├── src/
-│   └── score_calculator.py
-├── results/
+│   ├── visual/
+│   │   └── pilot-protocol-v1.md
+│   └── human-ai-comparison-v0.1.md
 ├── agent/
-│   └── README.md
+├── src/
 └── journal/
-    └── 2026-11-12-day-01.md
 ```
 
-## First experiment: Aesthetic Benchmark 0.1
+Some folders contain additional files and experimental materials that are maintained separately.
 
-**Question:** Given the same task, how do two selected AI models differ in perceived quality and instruction fulfilment across visual, literary, and interaction outputs?
+## 10. Research Inspiration
 
-### Pilot protocol
+This project draws methodological inspiration from open research on multimodal aesthetic evaluation, including AesBench.
 
-- Prepare 15 tasks: 5 visual, 5 literary, 5 interaction.
-- Run each task once on each of two selected models: 30 outputs total.
-- Record exact prompt, model name/version, date, settings, and output.
-- Randomize or conceal model identity during human evaluation where practical.
-- Score each output on task-specific criteria using a 1–5 scale.
-- Record a short reason and at least one concrete strength or failure case.
-- Treat the first round as an exploratory pilot, not a general claim about model quality.
+It adapts ideas from aesthetic evaluation research to investigate goal-oriented visual judgment, potential style preference bias, and human-AI evaluation differences.
 
-### Important methodological notes
+- [AesBench Project](https://aesbench.github.io/)
+- [AesBench GitHub Repository](https://github.com/yipoh/AesBench)
 
-- Do not compare image and text scores as if they were directly equivalent.
-- Keep instruction-following separate from aesthetic quality.
-- One evaluator's scores represent that evaluator's preferences, not universal human consensus.
-- If multiple evaluators join, report agreement and disagreements rather than hiding them.
-- Record model versions and generation settings. If they change, treat the run as a new condition.
-- Do not claim that prompting has changed model weights. Prompt iteration is not model fine-tuning.
+## 11. Author's Role
 
-## Getting started
+The project is an independent exploratory research effort.
 
-### 1. Open the project
+My contributions include:
 
-Open this folder in VS Code or another code editor.
+- Identifying the research problem and defining research questions.
+- Designing image-goal evaluation scenarios.
+- Developing a goal-oriented visual evaluation prompt.
+- Organizing AI evaluation records and human feedback.
+- Developing a preliminary style preference bias coding framework.
+- Reviewing model outputs and examining potential evaluation inconsistencies.
+- Comparing human and AI judgments.
+- Documenting methodological limitations and future research directions.
 
-### 2. Start with the research documents
+The project emphasizes visual analysis, evaluation design, qualitative reasoning, data organization, and model behavior analysis.
 
-Read:
-- `research/research-question.md`
-- `research/evaluation-rubric.md`
-- `journal/2026-11-12-day-01.md`
+No model training or fine-tuning is claimed.
 
-### 3. Add experimental data
+---
 
-Use the templates in `dataset/`. Keep raw outputs unchanged. Store evaluations separately.
-
-### 4. Run the score calculator
-
-Requires Python 3.10+.
-
-```bash
-python src/score_calculator.py --input dataset/human-evaluations/sample_scores.json --output results/summary.json
-```
-
-### 5. Version your work with Git
-
-```bash
-git init
-git add .
-git commit -m "Initialize Aesthetic Lab research project"
-```
-
-Create an empty GitHub repository named `aesthetic-lab`, then connect it:
-
-```bash
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/aesthetic-lab.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. Never put API keys, passwords, private data, or access tokens in this repository.
-
-## Current status
-
-- [x] Project scope and initial repository structure
-- [x] First research journal entry
-- [x] Initial rubric draft
-- [ ] Select two accessible models and record exact versions
-- [ ] Complete 15 benchmark prompts
-- [ ] Collect 30 outputs
-- [ ] Conduct human evaluation
-- [ ] Analyze results and write the first report
-- [ ] Build a repeatable evaluation workflow
-
-## License and responsible use
-
-This project is for research and learning. Respect model providers' terms, image and text copyrights, privacy, and dataset licenses. Obtain consent before collecting personal or sensitive conversation data. Document limitations and avoid presenting subjective judgments as objective facts.
+*Version 2.0 — Completed Exploratory Pilot*  
+*Research status: Preliminary analysis completed; further validation required.*
