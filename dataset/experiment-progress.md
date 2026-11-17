@@ -1,3 +1,4 @@
+
 # Experiment Progress
 
 ## Study Scope
@@ -14,19 +15,21 @@ The planned pilot dataset contains 16 AI evaluation records:
 |---|---|---|---|---|
 | AI-001 | IMG02 | G01 | ChatGPT (GPT-6) | Saved |
 | AI-002 | IMG02 | G01 | DeepSeek | Saved |
-| AI-003 | IMG02 | G02 | ChatGPT (GPT-6) | Pending |
+| AI-003 | IMG02 | G02 | ChatGPT (GPT-6) | Saved |
 | AI-004 | IMG02 | G02 | DeepSeek | Saved |
 
 ## Current Progress
 
-- Completed and saved: 3 records
-- Pending: 1 record in the current IMG02 set
-- Remaining after IMG02: 12 planned records
+- Completed and saved: 4 records
+- Pending: 0 records in the current IMG02 set
+- Remaining: 12 planned records
 
 ## Notes
 
-AI-003 is pending because ChatGPT image-upload access is temporarily unavailable.
+All four AI evaluation records for IMG02 have been completed and saved.
 
-The experiment will resume with the same image, design goal, and official prompt when image-upload access becomes available.
+The next evaluation set will focus on IMG05, followed by IMG07 and IMG08.
+
+All evaluations use the same official Visual Evaluation Prompt v0.1 and the corresponding design goal briefs.
 
 No evaluation scores or model outputs are inferred or fabricated.
