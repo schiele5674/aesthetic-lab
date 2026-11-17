@@ -1,0 +1,115 @@
+**Image ID:** IMG07
+
+**Design Goal:** G01 — Contemporary Cultural Exhibition. A poster for a contemporary cultural exhibition, aimed at young adults and culturally interested visitors, communicating culture, reflection, and quiet sophistication, with a desired character of calm, restraint, thoughtfulness, and cultural expressiveness.
+
+---
+
+**1. Style Recognition**
+
+The dominant style is **raw, hand-painted neo-expressionist poster art** — closer to art brut, DIY zine culture, and gestural drawing than to any typographic tradition. Its observable characteristics:
+
+- **Two values only**: dense black ink on an off-white, slightly warm paper ground. No color, no gradient, no photography.
+- **A single hand-made mass**: one large, irregular black silhouette, applied with a brush or loaded tool, with visible unevenness in edge and density.
+- **Hand-lettering as the only typography**: white letters scratched or written into the black field; black hand-drawn capitals below it. No typeset face appears anywhere on the sheet.
+- **Deliberate anti-polish**: wandering baselines, inconsistent letter widths and heights, colliding strokes, and a rough, unretouched border.
+- **A drawing-as-poster logic**: the sheet behaves like a work on paper — a gesture signed and dated — rather than like a designed announcement.
+
+The visible text — "CHARLES BLAIS," "EESTI KUNSTIMUUSEUM" (Art Museum of Estonia), "JAN.–FEB. 1991" — identifies the artefact as a 1991 exhibition notice. I make no claim about who made it or why beyond what the sheet shows; the evaluation below treats the visible design attributes against the brief.
+
+---
+
+**2. Visual Evidence**
+
+**Typography**
+- Line 1, "CHARLES," is set small in a wavering script whose letters crowd and collide — the R and the following E share strokes, so the name does not resolve instantly. The S ends in an open loop.
+- Line 2, "BLAIS," is the largest element on the sheet, spanning nearly the full width of the black mass, with letters of uneven height and a markedly thin, scratchy stroke.
+- Lines 3–5 set "EESTI / KUNSTIMU / USEUM" — the museum name broken as "KUNSTIMU" and "USEUM" across two lines, with "EESTI" above them in a smaller, lighter hand.
+- The bottom line, "JAN.-FEB.1991," runs in black hand-drawn capitals along the lower white margin, letters leaning and of unequal size; the baseline dips slightly.
+- There is no exhibition title, no subtitle identifying the medium or theme, no opening hours, no address, no admission information, and no digital pointer.
+- Letterforms are entirely idiosyncratic: no repeating system, no aligned grid, no consistent stroke weight.
+
+**Color**
+- Pure black and paper white, with the paper's warm cast providing the only tonality. Contrast is maximal.
+- The absence of any second color is genuine restraint at the palette level, but it also means the sheet has no soft or intermediate register — everything is either solid black or bare paper.
+
+**Composition and layout**
+- One dominant black form occupies roughly the upper four-fifths of the sheet: a bulbous, asymmetrical silhouette that widens at the shoulders, protrudes on the left (like an ear, a knuckle, or a jaw), and narrows toward a base at the bottom. It reads as a head, a bust, a fist, or a stone — deliberately unresolved.
+- White text sits entirely *inside* the black mass; the date line sits entirely *outside* it, on the white margin.
+- The black form presses close to the top edge, and at the left it nearly touches the sheet edge; the date line sits low, close to the bottom. The margins are small and uneven, and the whole sheet feels tightly packed.
+- A thin, faint border line runs just inside the sheet edge, reading as a plate mark or photographic mount edge.
+
+**Imagery**
+- No depicted scene, no figure detail, no setting, no artwork reproduction. The entire image is a silhouette that doubles as a container for the words.
+- A stray vertical hook stroke hangs from the top of the black mass into the "CHARLES" line, reading as an unresolved mark.
+
+**Visual hierarchy**
+1. "BLAIS" (largest, highest-contrast white-on-black).
+2. The black silhouette as a mass.
+3. "KUNSTIMU / USEUM."
+4. "CHARLES" and "EESTI."
+5. "JAN.-FEB.1991" (outside the mass, but large in the lower margin).
+
+The hierarchy is by size alone; there is no typographic register — large, small, title, and caption all arrive in the same rough hand.
+
+---
+
+**3. Goal Alignment Score**
+
+**Score: 3/5**
+
+Explanation: The poster is strongly *culturally expressive* and genuinely *thoughtful* in one specific way: placing the words inside a head-shaped mass makes the sheet a picture of thought — language held inside a mind — which is a more intelligent response to "reflection" than most literal exhibition graphics manage. Its two-value economy is real restraint, and its handmade authenticity reads as the trace of an artist rather than of a marketing department, which is exactly the register that earns the trust of culturally literate young visitors.
+
+It stops at moderate alignment because the goal's *emotional* adjectives point elsewhere. "Calm" and "quiet sophistication" are contradicted by a heavy, rough, faintly sinister black mass that crowds the sheet, by lettering that reads as crude rather than considered, and by an information structure that looks careless. Crudeness is not the same as restraint: the poster is austere in means but loud and unresolved in effect. The museum's own name is broken awkwardly across two lines ("KUNSTIMU / USEUM"), and the sheet supplies no exhibition subject and no practical details, so a visitor is moved by the image but not informed by it. The result is a compelling art object and only a partially effective exhibition poster for this brief.
+
+---
+
+**4. Strengths**
+
+- **Conceptual economy.** One shape, two values, five lines of text. Nothing is decorative; every mark is load-bearing.
+- **The silhouette-as-container idea.** Setting the name and institution inside the head turns the poster into a meditation on interiority — a strong, unusual support for "reflection" and "thoughtful."
+- **Undeniable cultural authenticity.** The hand-made mark signals a real artist and a real institution, not a campaign; for young culturally interested viewers this reads as credible and non-corporate.
+- **Palette discipline.** Black on warm white is the most restrained possible decision and prints beautifully and cheaply at any scale.
+- **A clear dominant and a clear anchor.** "BLAIS" holds the center of gravity; the date line at the base closes the composition and gives the eye a place to land.
+- **Material intimacy.** The visible brush edge, uneven ink density, and paper tone give the sheet the presence of a print — appropriate for a museum and durable against digital reproduction.
+
+---
+
+**5. Weaknesses**
+
+- **Tonal aggression versus "calm."** The black mass is the largest and heaviest element; it presses toward the top and left edges. The effect is weight and slight menace, not quiet.
+- **Crudeness read as carelessness.** Colliding letters, drifting baselines, and inconsistent stroke weights read as unresolved rather than as deliberate rawness, which undercuts "sophistication" and institutional authority.
+- **A damaging word break.** "KUNSTIMU / USEUM" splits the museum's name mid-word, which looks like an error and weakens the one piece of information that establishes credibility.
+- **No exhibition content.** The sheet names an artist and an institution but never says what the exhibition is, what medium it shows, or why a young visitor should care — a name-only poster assumes prior knowledge of Charles Blais.
+- **No actionable information.** No address, no opening hours, no admission, no website or social handle. A visitor cannot attend on the strength of this sheet.
+- **Compressed margins.** The black form abuts the top and left edges and the date line sits close to the bottom, so the composition feels cramped rather than composed. Breathing room is the cheapest available route to "calm," and it is absent.
+- **Single-register typography.** Every element is hand-lettered at the same visual temperature, so there is no quiet counter-voice to the shout — no small, precise line to set against the wild mark.
+- **Legibility risk at distance and in reproduction.** Thin white scratches on black lose definition when reduced for social media; smaller lines ("EESTI," "CHARLES") will disappear first.
+- **Ambiguous silhouette.** Head, fist, or stone — the form is unresolved. This supports openness but provides no anchor tying the image to the exhibition's subject.
+
+---
+
+**6. Revision Suggestions**
+
+1. **Add a second, quiet typographic register.** Keep the hand-lettering exactly as it is inside the mass, and add a small, precisely set line or block in a neutral contemporary typeface on the white margin — exhibition title, dates, hours, address, and museum mark. *Why:* the contrast between a wild gesture and meticulous small type is the most direct route to "quiet sophistication"; precision around the mark makes the mark read as intentional rather than sloppy.
+
+2. **Repair the museum name.** Set "EESTI KUNSTIMUUSEUM" on a single line at a size that fits, or move it out of the silhouette to the lower margin. *Why:* the current mid-word break reads as a typographic accident and costs the poster its institutional credibility.
+
+3. **Open the margins.** Reduce the black mass by roughly ten percent and re-center it, giving clear white space at the top, left, and bottom. *Why:* margin is the physical form of calm; the current crop feels pressed against the sheet, which works against restraint.
+
+4. **Give the name one unambiguous setting.** Keep the white hand-lettered version inside the mass, but set "CHARLES BLAIS" once, clearly and completely, in the lower margin. *Why:* the colliding script makes the artist's name uncertain at first glance, and the artist's name is the poster's primary content.
+
+5. **State what the exhibition is.** Add a short subtitle — medium, period, or a single thematic phrase — beneath the name. *Why:* the sheet currently communicates "something by Charles Blais" only; young visitors who do not know the artist need one line telling them what they will see.
+
+6. **Complete the practical information.** Add the exact run dates (not only "JAN.–FEB. 1991"), opening hours, address, and admission, plus a short URL or QR code. *Why:* the poster must function as an invitation, and a full date range also removes the ambiguity of the current month-only line.
+
+7. **Resolve the stray mark.** Either remove the hook stroke descending from the top of the silhouette, or make it clearly intentional by echoing it elsewhere. *Why:* at present it reads as an accident, and a single unexplained mark in an otherwise economical composition weakens the impression of control.
+
+8. **Tune the silhouette's edge.** Decide between a clean, confident brush edge and a deliberately frayed one, and apply it consistently around the form. *Why:* the current edge varies between decisive and hesitant; consistency converts rawness into a style rather than an inconsistency.
+
+9. **Protect legibility across formats.** Increase the stroke weight of the smaller white lines slightly and test the poster at thumbnail size and in a square social crop. *Why:* thin white scratches on black are the first thing to vanish when the poster is reproduced small or on a phone.
+
+10. **Choose the stock deliberately.** Print the black at full density on an uncoated, clearly warm white sheet. *Why:* the material quality is doing real work here; a coated white stock would make the same artwork look like a cheap photocopy rather than a print.
+
+---
+
+*Note on limitations: the sheet states only an artist, an institution, and a month range; the exhibition's subject, the intended audience language, and the maker of the poster are not determinable from the image. The visible date (1991) means the artefact predates the brief, so "contemporary" is judged here as a matter of visual language rather than of production date. The score measures alignment with G01 only, not the poster's standing as an artwork.*
