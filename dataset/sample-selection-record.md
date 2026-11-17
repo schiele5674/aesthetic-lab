@@ -36,7 +36,7 @@ Each selected image will be evaluated under two standardized design goals:
 - G01 — Contemporary Cultural Exhibition
 - G02 — Urban Youth Music Festival
 
-This produces a total of sixteen planned AI evaluation records: four images × two design goals × two AI models (ChatGPT and DeepSeek). Both models will receive the same images and the same official evaluation prompt to support a consistent comparison.
+This produced a total of sixteen AI evaluation records: four images × two design goals × two AI models (ChatGPT GPT-6 and DeepSeek-V4.1-Flash). four images × two design goals × two AI models (ChatGPT and DeepSeek). Both models will receive the same images and the same official evaluation prompt to support a consistent comparison.
 
 ### 5. Sampling Limitations
 
@@ -57,8 +57,10 @@ The selection does not establish in advance which image is more suitable for eit
 
 Sample selection: Completed
 
-AI evaluation: Pending
+AI evaluation: Completed (16 records)
 
-Human evaluation: Pending
+Human evaluation: Completed (8 records, one human evaluator)
+
+Style preference bias coding: Completed (80 coding items)
 
 Source and rights verification: Pending
