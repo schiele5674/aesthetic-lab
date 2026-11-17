@@ -16,10 +16,14 @@ A score of 2 does not prove stable model-level bias.
 
 ## 3. Coding Records
 
-Detailed coding records will be added one by one after examining the original AI responses.
+The coding review covers 16 AI evaluation responses across five bias categories, resulting in 80 coding items.
+
+The completed coding records and review summary are available in:
+
+`dataset/Aesthetic_Lab_80_Bias_Coding_Review_v0.2.xlsx`
 
 ## 4. Cross-Case Analysis
 
-Potential recurring patterns will be examined across different images, design goals, and models.
+Potential recurring patterns are examined across different images, design goals, and models.
 
-No stable model-level bias will be claimed without repeated supporting evidence.
+In this pilot, only one possible bias signal was identified. No confirmed bias or stable model-level bias is claimed due to the limited sample size and insufficient repeated evidence.
