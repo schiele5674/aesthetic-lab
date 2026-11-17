@@ -189,26 +189,44 @@ The next research stage will focus on:
 
 ## 9. Repository Structure
 
-The repository contains research documentation, evaluation prompts, experimental data, and analysis materials.
+The repository is organized into research documentation, experimental datasets, evaluation records, and analysis materials.
 
 ```text
 aesthetic-lab/
+├── README.md
+├── LICENSE
 ├── research/
-│   ├── research-question.md
+│   ├── weekly-reports/
 │   ├── evaluation-rubric.md
+│   ├── research-question.md
 │   ├── style-preference-bias-coding-v0.1.md
-│   └── style-preference-bias-framework-v0.1.md
+│   ├── style-preference-bias-framework-v0.1.md
+│   └── visual-aesthetic-observations-001.md
 ├── dataset/
-│   ├── prompts/
-│   ├── outputs/
 │   ├── human-evaluations/
-│   └── experiment-progress.md
+│   │   ├── human-evaluation-records-v0.1.md
+│   │   └── human-evaluation-template.md
+│   ├── images/
+│   ├── outputs/
+│   ├── prompts/
+│   ├── Aesthetic_Lab_16_AI_Original_Text_Audit_v1.1_corrected.xlsx
+│   ├── experiment-progress.md
+│   ├── experiment-tracking-sheet.md
+│   ├── image-source-register.md
+│   ├── model-information.md
+│   └── sample-selection-record.md
 ├── experiments/
+│   ├── interaction/
+│   ├── literary/
+│   ├── visual/
+│   │   └── pilot-protocol-v1.md
 │   └── human-ai-comparison-v0.1.md
-└── README.md
+├── agent/
+├── src/
+└── journal/
 ```
 
-Additional research reports, original evaluation records, and data audit files are maintained in their corresponding project folders.
+Some folders contain additional files and experimental materials that are maintained separately.
 
 ## 10. Research Inspiration
 
