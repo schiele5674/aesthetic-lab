@@ -1,162 +1,149 @@
-Research Questions
+# Research Questions
 
-Aesthetic Lab: Goal-Oriented Aesthetic Judgment in Multimodal AI
+## Aesthetic Lab: Goal-Oriented Aesthetic Judgment in Multimodal AI
 
-Version: 1.0
-Research Type: Exploratory Evaluation Study
+**Version:** 1.0  
+**Research Type:** Exploratory Evaluation Study
 
-1. Main Research Question
+## 1. Main Research Question
 
 Can multimodal AI models evaluate visual designs according to specific design goals, rather than relying on fixed aesthetic preferences?
 
-This project investigates whether AI can recognize that different visual styles may be appropriate for different design contexts.
+This project investigates whether AI models can recognize that different visual styles may be appropriate for different design contexts and support their judgments with observable visual evidence.
 
-2. Sub-Research Questions
+## 2. Sub-Research Questions
 
-RQ1 — Style Recognition
+**RQ1 — Style Recognition and Visual Evidence**
 
-Can AI correctly identify the visual characteristics and styles of different design works?
+How do AI models identify and describe the visual characteristics of different design works, and to what extent are their descriptions supported by observable visual evidence?
 
-RQ2 — Goal Alignment
+**RQ2 — Goal Alignment**
 
-Can AI evaluate whether a visual design matches its intended purpose, audience, and emotional direction?
+How do AI models evaluate whether a visual design supports its specified purpose, target audience, and communication objective?
 
-RQ3 — Style Preference Bias
+**RQ3 — Style Preference Bias**
 
-Does AI systematically favor certain visual styles, such as minimalism, across different design contexts?
+Do AI responses show observable signs of recurring preferences for particular visual characteristics across different design contexts?
 
-RQ4 — Human-AI Judgment Gap
+**RQ4 — Human-AI Judgment Gap**
 
-How do AI evaluations differ from independent human judgments in terms of scores, visual evidence, and reasoning?
+How do AI Goal Alignment scores differ from human evaluation scores across the same image-goal combinations, and what differences appear in their explanations?
 
-3. Research Hypotheses
+## 3. Research Hypotheses
 
-The following hypotheses will be explored through pilot experiments.
+The following hypotheses guide the exploratory investigation. They are not established findings.
 
-H1 — Goal Sensitivity
+**H1 — Goal Sensitivity**
 
-A goal-sensitive model should adjust its evaluations when the design goal changes.
+A goal-sensitive model should adjust its evaluation when the specified design goal changes, even when the visual image remains the same.
 
-H2 — Style Preference Consistency
+**H2 — Style Preference Consistency**
 
-A model may show a recurring preference for certain visual styles across different design contexts.
+A model may repeatedly favor or reject certain visual characteristics across different design contexts, potentially indicating a style preference pattern.
 
-H3 — Human-AI Evaluation Difference
+**H3 — Human-AI Evaluation Difference**
 
-AI and human evaluators may disagree when judging whether a visual design is appropriate for a specific goal.
+AI and human evaluators may differ in their Goal Alignment scores and explanations when assessing the same visual design under the same design goal.
 
-These are research hypotheses, not established findings.
+## 4. Key Research Concepts
 
-4. Key Research Concepts
+**Aesthetic Preference**
 
-Concept
+A general preference for a visual style or appearance.
 
-Definition
+**Goal-Oriented Aesthetic Judgment**
 
-Aesthetic Preference
+Evaluation based on a specific design goal rather than universal beauty or personal preference.
 
-General preference for a visual style or appearance
+**Goal Alignment**
 
-Goal-Oriented Aesthetic Judgment
+The degree to which a visual design supports its intended purpose, target audience, and communication objective.
 
-Evaluation based on a specific design goal
+**Style Preference Bias**
 
-Goal Alignment
+A possible recurring preference for certain visual characteristics that may not adequately respond to changing design goals.
 
-The degree to which a design fulfills its intended purpose
+**Human-AI Judgment Gap**
 
-Style Preference Bias
+Differences between AI and human evaluations, including scores and supporting explanations.
 
-A recurring preference for certain styles that may not adequately respond to changing design goals
+## 5. Experimental Scope
 
-Human-AI Judgment Gap
+The completed pilot study includes:
 
-Differences between AI evaluations and human evaluations
+- Four selected visual design images: IMG02, IMG05, IMG07, and IMG08.
+- Two design goals:
+  - G01 — Contemporary Cultural Exhibition.
+  - G02 — Urban Youth Music Festival.
+- Two AI models:
+  - ChatGPT (GPT-6).
+  - DeepSeek (DeepSeek-V4.1-Flash).
+- Sixteen AI evaluation records.
+- Eight human evaluation records completed by one human evaluator.
 
-5. Experimental Scope
+The same selected images were evaluated under both design goals to examine how evaluations changed when the intended context changed.
 
-The first pilot focuses on four visual styles:
+The pilot uses existing visual design works rather than newly commissioned designs.
 
-Minimalism
+## 6. Evaluation Approach
 
-Expressive Design
+Each image-goal evaluation uses three standardized dimensions:
 
-Swiss Modernism
+**A. Style Recognition**
 
-Hand-drawn Art
+Identify and describe the dominant visual style and its observable characteristics.
 
-The initial design contexts are:
+**B. Visual Evidence**
 
-Contemporary Cultural Exhibition
+Describe observable elements such as typography, color, composition, layout, imagery, and visual hierarchy. This dimension is descriptive and does not receive an independent numerical score.
 
-Urban Youth Music Festival
+**C. Goal Alignment**
 
-Professional Technology Forum
+Evaluate how well the design supports the specified design goal using a five-point scale:
 
-Community Lifestyle Festival
+| Score | Meaning |
+|---|---|
+| 1 | Very poor alignment |
+| 2 | Poor alignment |
+| 3 | Moderate alignment |
+| 4 | Good alignment |
+| 5 | Excellent alignment |
 
-The first pilot will use a small selection of existing visual design works.
+The analysis includes:
 
-6. Evaluation Approach
+- Comparison of Goal Alignment scores across images, goals, and models.
+- Qualitative examination of style descriptions and visual evidence.
+- Review of 80 bias coding items across five candidate categories.
+- Comparison of AI and human Goal Alignment scores.
 
-Each selected image will be evaluated through standardized questions covering:
+The bias coding scale is:
 
-Style Recognition
+- 0 — No observable bias indicator.
+- 1 — Possible bias indicator; insufficient evidence.
+- 2 — Clear bias indicator in this individual response.
 
-Visual Perception
+A coding score does not by itself establish stable model-level bias.
 
-Goal Alignment
-
-Aesthetic Explanation
-
-Revision Suggestions
-
-Goal alignment will use a five-point scale:
-
-Score
-
-Meaning
-
-1
-
-Very poor alignment
-
-2
-
-Poor alignment
-
-3
-
-Moderate alignment
-
-4
-
-Good alignment
-
-5
-
-Excellent alignment
-
-Written explanations and visual evidence will be retained for qualitative analysis.
-
-7. Research Limitations
+## 7. Research Limitations
 
 This project recognizes several limitations:
 
-Human aesthetic judgments are subjective.
+- The pilot includes only four images, two design goals, and two AI models.
+- Existing design works may not have been originally created for the experimental design goals.
+- Only one human evaluator participated.
+- The IMG02 human evaluations were submitted after exposure to AI evaluation outputs, while the evaluations for IMG05, IMG07, and IMG08 were completed without prior exposure to the corresponding AI outputs.
+- Visual style descriptions and bias coding involve interpretive judgments.
+- Model responses may be influenced by prompt wording and task interpretation.
+- No independent expert reference standard was established.
+- A small exploratory pilot cannot establish universal conclusions about AI aesthetic ability.
+- An observable output pattern does not reveal a model's internal training mechanisms.
 
-Existing design works may not have been created for the experimental design goals.
+Results should therefore be interpreted as preliminary observations rather than definitive conclusions about general model behavior.
 
-Image quality and content may influence evaluation results.
-
-A small pilot cannot establish universal conclusions about AI aesthetic ability.
-
-A recurring style preference does not automatically prove bias.
-
-Results will therefore be interpreted as exploratory evidence rather than universal claims.
-
-8. Expected Contribution
+## 8. Expected Contribution
 
 Aesthetic Lab aims to develop a practical evaluation framework for investigating goal-oriented aesthetic judgment in multimodal AI.
 
-The project emphasizes the relationship between design objectives, visual styles, human feedback, and model evaluation.
+The project emphasizes the relationship between design objectives, visual characteristics, observable evidence, human feedback, and model evaluation.
+
+It also explores how potential style preference patterns can be identified and cautiously analyzed without treating every stylistic preference as a confirmed model bias.
