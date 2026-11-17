@@ -2,7 +2,7 @@
 
 ## Study Scope
 
-The planned pilot dataset contains 16 AI evaluation records:
+The completed pilot dataset contains 16 AI evaluation records
 
 - 4 selected images: IMG02, IMG05, IMG07, IMG08
 - 2 design goals: G01 and G02
