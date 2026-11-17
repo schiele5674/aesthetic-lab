@@ -1,4 +1,3 @@
-
 # Experiment Progress
 
 ## Study Scope
@@ -11,25 +10,44 @@ The planned pilot dataset contains 16 AI evaluation records:
 
 ## Evaluation Status
 
-| Record ID | Image | Goal | Model | Status |
-|---|---|---|---|---|
-| AI-001 | IMG02 | G01 | ChatGPT (GPT-6) | Saved |
-| AI-002 | IMG02 | G01 | DeepSeek | Saved |
-| AI-003 | IMG02 | G02 | ChatGPT (GPT-6) | Saved |
-| AI-004 | IMG02 | G02 | DeepSeek | Saved |
+| Record ID | Image | Goal | Model | Goal Alignment Score | Status |
+|---|---|---|---|---:|---|
+| AI-001 | IMG02 | G01 | ChatGPT (GPT-6) | 4/5 | Saved |
+| AI-002 | IMG02 | G01 | DeepSeek | 3/5 | Saved |
+| AI-003 | IMG02 | G02 | ChatGPT (GPT-6) | 2/5 | Saved |
+| AI-004 | IMG02 | G02 | DeepSeek | 2/5 | Saved |
+| AI-005 | IMG05 | G01 | ChatGPT (GPT-6) | 4/5 | Saved |
+| AI-006 | IMG05 | G01 | DeepSeek | 4/5 | Saved |
+| AI-007 | IMG05 | G02 | ChatGPT (GPT-6) | 3/5 | Saved |
+| AI-008 | IMG05 | G02 | DeepSeek | 2/5 | Saved |
+| AI-009 | IMG07 | G01 | ChatGPT (GPT-6) | 5/5 | Saved |
+| AI-010 | IMG07 | G01 | DeepSeek | 3/5 | Saved |
+| AI-011 | IMG07 | G02 | ChatGPT (GPT-6) | 3/5 | Saved |
+| AI-012 | IMG07 | G02 | DeepSeek | 3/5 | Saved |
+| AI-013 | IMG08 | G01 | ChatGPT (GPT-6) | 4/5 | Saved |
+| AI-014 | IMG08 | G01 | DeepSeek | 4/5 | Saved |
+| AI-015 | IMG08 | G02 | ChatGPT (GPT-6) | 3/5 | Saved |
+| AI-016 | IMG08 | G02 | DeepSeek | 2/5 | Saved |
 
 ## Current Progress
 
-- Completed and saved: 4 records
-- Pending: 0 records in the current IMG02 set
-- Remaining: 12 planned records
+- Completed and saved: 16 records
+- Pending: 0 records
+- Remaining: 0 records
+
+## Completion Summary
+
+All 16 planned AI evaluation records have been completed according to the pilot study design.
+
+All four selected images have been evaluated under both design goals by both models.
+
+The dataset preserves the original model responses for subsequent analysis.
 
 ## Notes
 
-All four AI evaluation records for IMG02 have been completed and saved.
-
-The next evaluation set will focus on IMG05, followed by IMG07 and IMG08.
-
-All evaluations use the same official Visual Evaluation Prompt v0.1 and the corresponding design goal briefs.
-
-No evaluation scores or model outputs are inferred or fabricated.
+- All evaluations were conducted using the Visual Evaluation Prompt v0.1 and the corresponding design goal briefs.
+- Goal Alignment Scores are recorded as reported in each model evaluation.
+- Scores represent exploratory judgments within this pilot dataset, not universal measures of visual quality.
+- Model names reflect the model versions displayed during the evaluation sessions.
+- The dataset is intended for exploratory analysis. Findings should not be generalized beyond the scope of this pilot study.
+- Style Preference Bias coding and cross-case analysis will be conducted separately after the completion of data collection.
