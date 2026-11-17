@@ -50,4 +50,8 @@ The dataset preserves the original model responses for subsequent analysis.
 - Scores represent exploratory judgments within this pilot dataset, not universal measures of visual quality.
 - Model names reflect the model versions displayed during the evaluation sessions.
 - The dataset is intended for exploratory analysis. Findings should not be generalized beyond the scope of this pilot study.
-- Style Preference Bias coding and cross-case analysis will be conducted separately after the completion of data collection.
+- Style Preference Bias coding and cross-case analysis have been completed for all 16 AI evaluation records, covering 80 coding items.
+- Human evaluation: 8 image-goal evaluations completed and recorded.
+- Human-AI comparison: Preliminary comparison completed and documented in `experiments/human-ai-comparison-v0.1.md`.
+- Bias coding summary: 79 items coded as 0, 1 item coded as 1, and 0 items coded as 2.
+- Preliminary research report: `Aesthetic_Lab_阶段性研究报告_v0.1.docx` generated for review.
