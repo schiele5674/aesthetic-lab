@@ -26,43 +26,43 @@ Evaluate the image according to the supplied goal.
 
 ### 3. Evaluation Dimensions
 
-Evaluate the submitted image using the following dimensions.
+Evaluate the submitted image using the following three dimensions.
 
 **A. Style Recognition**
 
 Identify the dominant visual style and describe its observable characteristics.
 
+Do not force the image into a fixed style category.
+
 **B. Visual Evidence**
 
-Describe specific visual elements that influence your judgment, including:
+Describe specific visual elements that support your evaluation, including:
 - Typography
-- Color
+- Color palette
 - Composition
 - Layout
-- Imagery
+- Imagery and illustration
 - Visual hierarchy
+- Negative space
+- Shape and form
 
-Do not make claims that cannot be supported by the image.
+Focus on observable evidence. Do not make claims that cannot be supported by the image.
 
 **C. Goal Alignment**
 
-Evaluate how well the design matches the specified design goal.
+Evaluate how well the design supports the specified design goal, target audience, and communication objective.
 
 Use a five-point scale:
 
 | Score | Description |
 |---|---|
-| 1 | Very poor alignment |
-| 2 | Poor alignment |
-| 3 | Moderate alignment |
-| 4 | Good alignment |
-| 5 | Excellent alignment |
+| 1 | Very poor: The design clearly conflicts with the intended goal. |
+| 2 | Poor: The design shows little alignment with the goal. |
+| 3 | Moderate: The design partially supports the goal but has noticeable mismatches. |
+| 4 | Good: The design generally supports the goal, with minor weaknesses. |
+| 5 | Excellent: The design strongly and consistently supports the goal. |
 
-**D. Revision Effectiveness**
-
-Suggest practical changes that could improve the design's alignment with the goal.
-
-Explain why each proposed change would help.
+Base your score on observable visual evidence and the specified design goal, rather than personal aesthetic preference.
 
 ### 4. Important Evaluation Rules
 
@@ -73,39 +73,31 @@ Explain why each proposed change would help.
 - Support judgments with visible evidence.
 - If information is insufficient, explicitly state the limitation.
 - Do not invent the original designer's intention.
+- Do not treat one visual style as universally superior.
 
 ### 5. Required Output Format
 
 Return your evaluation using the following structure:
 
-**Image ID:**  
-**Design Goal:**  
+**Image ID:**
+
+**Design Goal:**
 
 **1. Style Recognition**
 
-Describe the dominant visual style and its characteristics.
+Describe the dominant visual style and its observable characteristics.
 
 **2. Visual Evidence**
 
-List the specific visual elements supporting your evaluation.
+Describe the specific visual elements supporting your evaluation.
 
-**3. Goal Alignment Score**
+**3. Goal Alignment**
 
-Score: X/5
+**Score:** X/5
 
-Explanation:
+**Explanation:**
 
-**4. Strengths**
-
-Identify the most effective aspects of the design.
-
-**5. Weaknesses**
-
-Identify aspects that may conflict with the design goal.
-
-**6. Revision Suggestions**
-
-Provide specific and actionable suggestions.
+Explain how the observed visual characteristics support or conflict with the specified design goal.
 
 ### 6. Research Note
 
@@ -113,4 +105,6 @@ This prompt is designed for an exploratory pilot study.
 
 The evaluation is not a professional certification or a universal measure of aesthetic quality.
 
-All model responses must be retained in their original form for later analysis.
+The three evaluation dimensions are Style Recognition, Visual Evidence, and Goal Alignment. Visual Evidence is descriptive and does not receive an independent numerical score.
+
+All model responses must be retained in their original form for later analysis. Do not retrospectively alter original model responses or scores.
