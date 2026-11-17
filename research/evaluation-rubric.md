@@ -14,11 +14,34 @@ AI and human evaluators should use the same criteria whenever possible.
 
 ## 2. Evaluation Dimensions
 
-Each design will be evaluated across four dimensions.
+Each design will be evaluated across three dimensions.
 
-### Dimension 1 — Goal Alignment
+### Dimension 1 — Style Recognition
 
-Does the visual design match its intended purpose, audience, and emotional direction?
+Identify and describe the dominant visual style of the design.
+
+The evaluator should explain the visual characteristics supporting the style identification, rather than forcing the image into a fixed style category.
+
+### Dimension 2 — Visual Evidence
+
+Identify observable visual elements that support the evaluation.
+
+Relevant elements may include:
+
+- Typography
+- Color palette
+- Composition
+- Layout
+- Imagery and illustration
+- Visual hierarchy
+- Negative space
+- Shape and form
+
+This dimension focuses on evidence-based visual description. It is not assigned an independent numerical score.
+
+### Dimension 3 — Goal Alignment
+
+Evaluate how well the visual design supports the specified design goal, audience, and communication objective.
 
 | Score | Description |
 |---|---|
@@ -28,143 +51,125 @@ Does the visual design match its intended purpose, audience, and emotional direc
 | 4 | Good: The design generally supports the goal, with minor weaknesses. |
 | 5 | Excellent: The design strongly and consistently supports the goal. |
 
-### Dimension 2 — Visual Evidence
-
-Does the evaluator support the judgment with specific visual evidence?
-
-| Score | Description |
-|---|---|
-| 1 | No meaningful visual evidence is provided. |
-| 2 | Evidence is vague or weakly connected to the image. |
-| 3 | Some relevant visual elements are identified. |
-| 4 | Several specific elements clearly support the judgment. |
-| 5 | Detailed and convincing evidence connects visual elements to the design goal. |
-
-Examples of visual evidence include:
-- Color palette
-- Typography
-- Composition
-- Visual hierarchy
-- Image and illustration style
-- Negative space
-- Shape and form
-- Overall visual atmosphere
-
-### Dimension 3 — Style Recognition
-
-Can the evaluator correctly identify the dominant visual style?
-
-Choose one category:
-
-- S01 — Minimalism
-- S02 — Expressive Design
-- S03 — Swiss Modernism
-- S04 — Hand-drawn Art
-- Uncertain / Mixed Style
-
-Record a short explanation of the visual characteristics supporting the classification.
-
-### Dimension 4 — Revision Effectiveness
-
-Are the suggested improvements relevant to the design goal?
-
-| Score | Description |
-|---|---|
-| 1 | Suggestions are irrelevant or may weaken the design. |
-| 2 | Suggestions have limited relevance to the goal. |
-| 3 | Suggestions are partly useful but lack clear direction. |
-| 4 | Suggestions are relevant and actionable. |
-| 5 | Suggestions are specific, actionable, and likely to improve goal alignment. |
-
+Evaluators should base their scores on observable visual evidence and the specified design goal, rather than personal aesthetic preference.
 ## 3. Instruction Following
 
-Record whether the evaluator follows the evaluation instructions.
+Instruction following may be documented as a supplementary observation when relevant.
 
-- Pass — All required questions are answered.
-- Partial — Some requirements are missing.
-- Fail — Major instructions are ignored.
+It is not a scored evaluation dimension and is not included in the Goal Alignment score.
 
-This result is recorded separately and is not included in the four dimension scores.
-
+Any missing answers, incomplete evaluations, or deviations from the evaluation prompt should be documented separately without changing the original model response.
 ## 4. Standard Evaluation Record
 
-For every image, record:
+For every image-goal evaluation, record:
 
 | Field | Description |
 |---|---|
+| Record ID | Unique evaluation identifier |
 | Image ID | Unique image identifier |
 | Design Goal | Intended design context |
-| Visual Style | S01 / S02 / S03 / S04 |
+| Model / Evaluator | AI model or human evaluator |
+| Style Recognition | Description of the identified visual style |
+| Visual Evidence | Observable visual elements supporting the evaluation |
 | Goal Alignment | Score from 1 to 5 |
-| Visual Evidence | Score from 1 to 5 |
-| Style Recognition | Selected category |
-| Revision Effectiveness | Score from 1 to 5 |
-| Instruction Following | Pass / Partial / Fail |
-| Explanation | Short reasoning |
-| Revision Suggestions | Suggested improvements |
+| Explanation | Reasoning supporting the evaluation |
 
+Original AI responses and individual human evaluation records should be preserved separately.
+
+The standard record reflects the three dimensions used in the completed pilot study.
 ## 5. Human Evaluation Protocol
 
-To reduce evaluation bias:
+Human evaluators should assess each image according to the specified design goal and the same three evaluation dimensions used in AI evaluation.
 
-1. Human evaluators should review the image and design goal independently.
-2. They should not read the AI evaluation before submitting their own scores.
-3. Evaluators should use the same scoring rubric.
-4. Each evaluator should provide a short explanation for the goal alignment score.
-5. Disagreements should be preserved rather than automatically averaged away.
+The preferred procedure is:
 
-If multiple human evaluators participate, their individual scores should be retained.
+1. Review the image and design goal independently before reading AI evaluations.
+2. Record the Style Recognition, Visual Evidence, and Goal Alignment judgments.
+3. Provide a short explanation supporting the Goal Alignment score.
+4. Preserve individual judgments rather than automatically averaging away disagreements.
 
+In this pilot, one human evaluator completed eight image-goal evaluations.
+
+The IMG02 human evaluations were submitted after exposure to AI evaluation outputs. The evaluations for IMG05, IMG07, and IMG08 were completed without prior exposure to the corresponding AI outputs.
+
+This procedural difference is documented as a methodological limitation and should be considered when interpreting the Human-AI comparison.
 ## 6. AI Evaluation Protocol
 
-AI evaluations should use:
+AI evaluations were conducted using:
 
-- The same image shown to human evaluators.
-- The same design goal and evaluation criteria.
-- A standardized prompt.
-- The same scoring scale.
+- The selected visual images.
+- The corresponding design goal briefs.
+- The standardized Visual Evaluation Prompt v0.1.
+- The same three evaluation dimensions: Style Recognition, Visual Evidence, and Goal Alignment.
 
-Original AI responses should be saved without editing.
+The pilot includes 16 AI evaluation records from two models: ChatGPT (GPT-6) and DeepSeek (DeepSeek-V4.1-Flash).
 
-Any missing answers or instruction-following problems should be documented.
+Original AI responses were preserved for subsequent analysis.
+
+Goal Alignment scores were recorded as reported in each model response. No retrospective changes were made to the original scores.
+
+Any missing answers or deviations from the evaluation prompt should be documented separately.
 
 ## 7. Analysis Framework
 
-The pilot study will examine:
+The completed pilot study examines four research dimensions:
 
-**A. Goal Alignment**
+**A. Goal-Oriented Aesthetic Judgment**
 
-Compare AI and human goal alignment scores for each image.
+Analyze how well AI evaluations assess visual designs in relation to the specified design goals.
 
-**B. Style Recognition**
+Compare Goal Alignment scores across images, goals, and models.
 
-Check whether the evaluator correctly identifies the intended visual style category.
+**B. Style Recognition and Visual Evidence**
 
-**C. Style Preference Patterns**
+Examine how models identify visual styles and whether their judgments are supported by observable visual evidence.
 
-Compare scores across different visual styles and design goals.
+**C. Style Preference Bias**
 
-A recurring preference for one style may indicate a pattern worth investigating, but it does not automatically prove bias.
+Review AI responses across five candidate bias categories:
+
+- Minimalism Bias
+- Low-saturation Bias
+- Symmetry Bias
+- Typography Bias
+- Complexity Aversion
+
+Each response is examined using the preliminary coding scale:
+
+- 0 — No observable bias indicator
+- 1 — Possible bias indicator; insufficient evidence
+- 2 — Clear bias indicator in this individual response
+
+A score of 2 does not establish stable model-level bias.
 
 **D. Human-AI Judgment Gap**
 
-For each image, calculate:
+Compare AI and human Goal Alignment scores for each image-goal combination.
+
+Calculate:
 
 `Score Difference = AI Score - Human Score`
 
 Positive values indicate higher AI scores; negative values indicate higher human scores.
 
-When multiple human evaluators are available, their average score may be used as a comparison reference, while individual differences remain documented.
+The mean absolute difference may be used as a descriptive summary. Given the small dataset and single human evaluator, the results should be interpreted as exploratory observations rather than evidence of model accuracy or reliability.
+
+The completed pilot also includes 80 bias coding items derived from the 16 AI evaluation responses, covering five candidate bias categories.
 
 ## 8. Methodological Limitations
 
-- The initial dataset is small and exploratory.
-- Existing design works may not have been created for the experimental design goals.
-- Image quality, subject matter, and other visual factors may influence scores.
-- Human judgments are subjective.
-- Small samples cannot establish universal model behavior.
+The following limitations should be considered when interpreting the pilot findings:
 
-The results should be interpreted as preliminary observations rather than definitive conclusions.
+- The dataset includes only four selected images, two design goals, and two AI models.
+- The selected existing design works may not have been originally created for the experimental design goals.
+- Only one human evaluator participated, so human judgments may reflect individual aesthetic preferences.
+- The IMG02 human evaluations were submitted after exposure to AI evaluation outputs, which may have influenced those judgments.
+- Visual style classifications and bias coding involve interpretive judgments.
+- Model responses may be influenced by prompt wording and task interpretation.
+- The absence of an independent expert reference standard limits conclusions about evaluation accuracy.
+- Observed output patterns do not reveal the models' internal training mechanisms.
+
+The findings should therefore be interpreted as preliminary observations within this exploratory pilot, not as definitive conclusions about general model behavior.
 
 ## 9. Research Principle
 
@@ -172,4 +177,8 @@ The central principle of Aesthetic Lab is:
 
 **A visually attractive design is not necessarily an effective design.**
 
-Aesthetic evaluation should consider whether visual choices serve the intended design goal, rather than rewarding a fixed visual style.
+Aesthetic evaluation should consider whether visual choices serve the intended design goal, audience, and communication objective.
+
+No single visual style should be treated as universally superior. A design should be evaluated in context, based on its visual characteristics and its ability to fulfill its intended purpose.
+
+The goal of this research is not to identify one universally preferred aesthetic, but to examine whether multimodal AI models can make context-sensitive, evidence-based aesthetic judgments.
