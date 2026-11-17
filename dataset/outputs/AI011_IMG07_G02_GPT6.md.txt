@@ -1,0 +1,72 @@
+# AI-011 — IMG07 × G02 × GPT-6
+
+**Image ID:** IMG07  
+**Design Goal:** G02 — Urban Youth Music Festival  
+**Model:** GPT-6
+
+## 1. Style Recognition
+
+The poster uses a raw, expressive, hand-painted graphic style with strong connections to art brut, experimental typography, and DIY visual culture.
+
+Its visual language is unconventional and deliberately unpolished. The large black silhouette functions as both an image and a container for handwritten text. The irregular lettering and monochromatic palette create a strong sense of individuality and artistic expression.
+
+The design feels closer to an experimental cultural or contemporary art poster than to a conventional commercial music festival poster.
+
+## 2. Visual Evidence
+
+- **Typography:** The handwritten lettering varies significantly in size, spacing, and stroke quality. The oversized word "BLAIS" creates a strong focal point, while the irregular letterforms contribute to an expressive, spontaneous character.
+- **Color:** The poster uses an almost exclusively black-and-white palette. The strong contrast gives it visual intensity and immediate visibility, although it lacks the color variety often associated with energetic festival communication.
+- **Composition:** A large, irregular black silhouette dominates the upper portion of the poster. The text is embedded inside the silhouette, while the date is placed along the bottom. The composition is visually concentrated but relatively static.
+- **Imagery:** The head-like silhouette creates a recognizable graphic shape, but it does not directly communicate music, performance, instruments, or an audience.
+- **Visual hierarchy:** The oversized lettering attracts attention first. The black silhouette establishes the main visual mass, while the date at the bottom provides secondary information. The hierarchy is distinctive but not particularly dynamic.
+
+## 3. Goal Alignment Score
+
+**Score: 3/5 — Moderate alignment**
+
+The poster has some qualities that could work for an alternative or experimental youth music festival. Its rough handmade appearance, oversized lettering, and unconventional graphic treatment create a strong individual identity. It does not look generic or overly commercial, which could appeal to audiences interested in underground music and independent cultural scenes.
+
+However, its visual energy is primarily expressive rather than dynamic. The irregular lettering and large black shape create intensity, but there is little sense of movement, rhythm, excitement, or collective participation.
+
+The poster also lacks recognizable music-related imagery and practical festival information. It does not immediately communicate that the event involves live music or invite viewers to participate.
+
+Therefore, the design has potential as an experimental visual identity, but its current form only moderately satisfies the broader G02 requirements.
+
+## 4. Strengths
+
+- **Distinctive visual identity:** The large black silhouette and handwritten lettering make the poster memorable.
+- **Expressive typography:** The irregular lettering creates a strong handmade character that could suit independent music culture.
+- **High visual contrast:** The monochromatic palette ensures that the central graphic remains immediately noticeable.
+- **Non-commercial atmosphere:** The unconventional style avoids the generic appearance of many promotional posters.
+- **Conceptual potential:** The relationship between the human silhouette and language could be developed into a recognizable festival identity.
+
+## 5. Weaknesses
+
+- **Limited sense of movement:** The composition is concentrated and static, with little directional energy.
+- **Weak music association:** There are no visible instruments, performers, stages, or other recognizable musical references.
+- **Limited audience participation:** The poster does not suggest a shared event experience or encourage viewers to attend.
+- **Restricted color expression:** The black-and-white palette is visually strong but provides fewer opportunities to communicate excitement through color.
+- **Information limitations:** The poster does not provide a lineup, venue details, ticket information, or a clear call to action.
+- **Potentially narrow audience appeal:** Its experimental and rough visual language may appeal to some alternative music audiences but may not communicate effectively to a broader youth audience.
+
+## 6. Revision Suggestions
+
+1. **Preserve the handmade visual language.** Keep the irregular lettering and expressive black silhouette rather than replacing them with conventional festival graphics.
+
+2. **Introduce rhythm and repetition.** Repeat selected handwritten words or fragments of the silhouette at different scales to create a stronger sense of musical rhythm.
+
+3. **Develop a more dynamic composition.** Experiment with diagonal placement, cropping, overlapping elements, and variations in scale to make the visual structure feel more active.
+
+4. **Introduce a carefully selected accent color.** A vivid red, electric blue, or fluorescent color could add energy while preserving the strong monochromatic identity.
+
+5. **Add music-related visual references.** Consider incorporating abstract sound waves, performance imagery, or graphic elements associated with live music without making the design overly literal.
+
+6. **Strengthen event information.** Add the festival date, venue, artist lineup, and ticket information in a clear visual hierarchy.
+
+7. **Create a participation-oriented message.** Include a short invitation or call to action that encourages young audiences to attend and engage.
+
+8. **Consider different audience segments.** If the festival focuses on experimental or underground music, retain more of the current raw visual character. If it targets a broader contemporary music audience, increase the clarity of its event communication.
+
+**Overall Conclusion:**
+
+IMG07 has a strong expressive identity and could be suitable for an experimental or underground music event. Its main limitation is not a lack of visual character, but the gap between expressive intensity and the dynamic, participatory atmosphere expected from an urban youth music festival. The most effective revision would preserve its handmade character while introducing more movement, musical context, and event information.
