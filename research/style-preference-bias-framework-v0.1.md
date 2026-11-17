@@ -84,8 +84,10 @@ A small exploratory dataset cannot establish universal model behavior.
 
 ## 9. Current Research Status
 
-This framework defines a preliminary method for investigating Style Preference Bias.
+The preliminary coding review has been completed across 16 AI evaluation responses and five candidate bias categories, resulting in 80 coding items.
 
-No stable model-level bias has been established at this stage.
+One possible bias indicator was identified in AI-012 (IMG07 × G02 × DeepSeek) under Complexity Aversion. However, the evidence was insufficient to confirm a bias.
 
-Findings will be updated only after sufficient experimental records have been collected and analyzed.
+No confirmed or stable model-level bias has been established in this pilot.
+
+Further research with a larger and more diverse dataset is needed to examine whether recurring style preference patterns exist.
