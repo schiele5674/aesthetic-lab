@@ -54,4 +54,4 @@ The dataset preserves the original model responses for subsequent analysis.
 - Human evaluation: 8 image-goal evaluations completed and recorded.
 - Human-AI comparison: Preliminary comparison completed and documented in `experiments/human-ai-comparison-v0.1.md`.
 - Bias coding summary: 79 items coded as 0, 1 item coded as 1, and 0 items coded as 2.
-- Preliminary research report: `Aesthetic_Lab_阶段性研究报告_v0.1.docx` generated for review.
+- Final pilot study report: `research/aesthetic-lab-pilot-study-report-v0.1.md`.
