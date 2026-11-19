@@ -31,12 +31,16 @@ This combination provides an opportunity to explore whether AI evaluation change
 
 ### 4. Experimental Design
 
-Each selected image will be evaluated under two standardized design goals:
+Each selected image was evaluated under two standardized design goals:
 
 - G01 — Contemporary Cultural Exhibition
 - G02 — Urban Youth Music Festival
 
-This produced a total of sixteen AI evaluation records: four images × two design goals × two AI models (ChatGPT GPT-6 and DeepSeek-V4.1-Flash). four images × two design goals × two AI models (ChatGPT and DeepSeek). Both models will receive the same images and the same official evaluation prompt to support a consistent comparison.
+This produced a total of sixteen AI evaluation records:
+
+4 images × 2 design goals × 2 AI models (ChatGPT GPT-6 and DeepSeek-V4.1-Flash).
+
+Both models received the same images and the same official evaluation prompt to support a consistent comparison.
 
 ### 5. Sampling Limitations
 
