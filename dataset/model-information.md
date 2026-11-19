@@ -25,17 +25,18 @@
 - Official Prompt: visual-evaluation-prompt-v0.1.md
 - Design Goals: G01 and G02
 - Selected Images: IMG02, IMG05, IMG07, IMG08
-- Planned Evaluations: 16
+- Completed AI Evaluation Records: 16
 
-### Consistency Requirements
+### Consistency Conditions
 
-1. Both models must receive the same image files.
-2. Both models must receive the same design goal descriptions.
-3. Both models must receive the same evaluation prompt.
-4. Record the model name displayed at the time of each evaluation.
-5. Record the actual evaluation date.
-6. Preserve complete original model responses.
+The following conditions were applied during the pilot evaluations:
 
+1. Both models received the same selected image files.
+2. Both models received the same design goal descriptions.
+3. Both models received the same official evaluation prompt.
+4. Model names were recorded as displayed at the time of each evaluation.
+5. Evaluation dates were recorded.
+6. Complete original model responses were preserved.
 ### Limitations
 
 The model names above are recorded as displayed in the user interfaces. They do not establish an underlying API model snapshot or guarantee that the model implementation will remain unchanged.
